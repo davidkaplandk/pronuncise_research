@@ -1,0 +1,2 @@
+utterances,total_phones_ref,total_errors_lev,overall_PER_ref,mean_jaro,mean_jaro_winkler
+35,10670,10668,0.9998125585754452,0.0198403368004755,0.0198403368004755

@@ -106,3 +106,111 @@ Potentiell relevante Datensätze:
 - **Common Voice Deutsch**: (https://commonvoice.mozilla.org/)  
 - **VoxPopuli** (mehrsprachig, EU-Parlamentsreden).
 - **CSS10 German**: Einsprachiger TTS/Sprachdatensatz.
+
+
+## 4. Kiel Corpus 
+
+## Inhalt des Datensatzes
+
+Je nach Teilkorpus umfasst das Kiel Corpus u. a.:
+
+- **Gesprochene Sprache**  
+  - Gelesene Sätze und Wörter  
+  - Spontansprache (z. B. Dialoge, Erzählungen)  
+- **Audio**  
+  - Aufnahmen (WAV o. Ä.) mit definierten Aufnahmebedingungen  
+- **Annotationen**  
+  - Zeitlich ausgerichtete Label-Dateien (z. B. TextGrid, Tabellen/CSV)  
+  - Orthografische, phonemische und prosodische Informationen
+
+Nicht alle Teilkorpora haben exakt die gleichen Dateiformate oder Spalten, aber die Struktur folgt in der Regel dem gleichen Prinzip: **Signal + zeitlich ausgerichtete Annotationen**.
+
+---
+
+## Annotationsebenen
+
+Typische Annotationsebenen im Kiel Corpus sind:
+
+- **Segment-Ebene**  
+  - Einzelne Laute/Phone mit Start- und Endzeit  
+  - Symbolik meistens in einem maschinenlesbaren Phonem- oder Allophon-Inventar (nicht immer „saubere IPA“, sondern korpusinterne Notation)
+- **Silben-Ebene**  
+  - Silbengrenzen  
+  - Betonungsinformationen (betont/unbetont)
+- **Wort-Ebene**  
+  - Orthografische Wortform  
+  - Segmentierung in Wörter mit Zeitmarken  
+- **Äußerungs-/Intonations-Ebene**  
+  - Phrasengrenzen  
+  - Intonationskonturen, Pausen, besondere prosodische Ereignisse (z. B. Akzente, Grenzton)
+
+Welche Ebenen genau vorhanden sind, hängt vom jeweiligen Unterkorpus ab.
+
+---
+
+## Typische Spalten in den Annotationstabellen
+
+In tabellarischen Annotationen (z. B. TXT/CSV) kommen u. a. folgende Spalten vor (konkrete Namen können variieren):
+
+- `file` / `utt_id` – ID der Äußerung/Datei  
+- `channel` – Kanalnummer (falls Stereo/Dialog)  
+- `start_time` – Segment-/Wortbeginn in Sekunden  
+- `end_time` – Segment-/Wortende in Sekunden  
+- `label` – Segment- oder Wortlabel  
+  - bei Segmenten: Phonem/Allophon  
+  - bei Wörtern: orthografische Wortform  
+- `tier` / `level` – Ebene der Annotation (Segment, Wort, Silbe, Phrase …)  
+- `speaker` – Sprecherkennzeichnung  
+- optional prosodische Spalten, z. B.:  
+  - `stress` – Betonungsgrad  
+  - `break_index` – Phrase Break / Grenzstärke  
+  - `accent` – Art des Akzents  
+  - weitere korpusinterne Kategorien (Tonhöhenmuster etc.)
+
+Für die eigene Auswertung wählt man meist:
+
+1. **Relevante Ebene** (z. B. Segment-Ebene für Phone-Statistiken, Wort-Ebene für Dauer & Wortlisten)  
+2. **Zeitsäulen** (`start_time`, `end_time`) zur Alignierung mit dem Audio  
+3. **Labelspalte** (`label` o. ä.) als Zielgröße (Phone/Wort/Prosodie)
+
+---
+
+## Entstehung und Design
+
+Das Kiel Corpus wurde in mehreren Projekten über Jahre hinweg aufgebaut. Typische Schritte bei der Erstellung:
+
+1. **Aufnahme**  
+   - Rekrutierung von Muttersprachler:innen des Deutschen  
+   - Aufnahme unter kontrollierten Bedingungen (z. B. ruhige Studio-Umgebung)
+
+2. **Grundtranskription**  
+   - Orthografische Transkription der Aufnahmen  
+   - Segmentierung in Äußerungen und Sätze
+
+3. **Phonetische/phonologische Annotation**  
+   - Manuelle oder halbautomatische Segmentierung in Phone/Silben  
+   - Verwendung eines festgelegten Lautinventars (teilweise korpusspezifische Symbole)
+
+4. **Prosodische Annotation**  
+   - Markierung von Betonung, Akzenten, Phrasengrenzen und Pausen  
+   - Nutzung definierter Kategorien und Richtlinien
+
+Damit ist das Korpus **zeitlich fein ausgerichtet** und eignet sich gut für Studien zu Lautdauer, Koartikulation, Intonation, Rhythmus usw.
+
+---
+
+## Nutzen für Pronuncise
+
+- **ASR/Phone-Modelle**  
+  - Nutzung der Segmentlabels als Goldstandard für Phone-Erkennung  
+  - Training oder Evaluation von Modellen 
+
+
+---
+
+## TL;DR
+
+- Das **Kiel Corpus** ist ein deutschsprachiges, phonetisch und prosodisch annotiertes Sprachkorpus mit Audio + zeitlich ausgerichteten Labels.  
+- Es bietet Annotationen auf **Segment-, Silben-, Wort- und Prosodie-Ebene**, mit Spalten wie `start_time`, `end_time`, `label`, `speaker` usw.  
+- Die Lautnotation ist **korpusintern** (nicht immer pures IPA), deshalb unbedingt die Beschreibung der Symbole lesen.  
+- Ideal für Phone-/ASR-Evaluation, prosodische Analysen und phonetische Detailstudien.

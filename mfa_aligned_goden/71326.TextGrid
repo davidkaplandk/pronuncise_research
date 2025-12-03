@@ -1,0 +1,132 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 5.616 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "words" 
+        xmin = 0 
+        xmax = 5.616 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 1.06 
+            text = "" 
+        intervals [2]:
+            xmin = 1.06 
+            xmax = 1.19 
+            text = "ich" 
+        intervals [3]:
+            xmin = 1.19 
+            xmax = 1.35 
+            text = "möchte" 
+        intervals [4]:
+            xmin = 1.35 
+            xmax = 2.16 
+            text = "gerne" 
+        intervals [5]:
+            xmin = 2.16 
+            xmax = 2.57 
+            text = "neugriechisch" 
+        intervals [6]:
+            xmin = 2.57 
+            xmax = 2.78 
+            text = "lernen" 
+        intervals [7]:
+            xmin = 2.78 
+            xmax = 3.35 
+            text = "weil" 
+        intervals [8]:
+            xmin = 3.35 
+            xmax = 3.79 
+            text = "meine" 
+        intervals [9]:
+            xmin = 3.79 
+            xmax = 4.05 
+            text = "schwester" 
+        intervals [10]:
+            xmin = 4.05 
+            xmax = 4.22 
+            text = "in" 
+        intervals [11]:
+            xmin = 4.22 
+            xmax = 4.45 
+            text = "<unk>" 
+        intervals [12]:
+            xmin = 4.45 
+            xmax = 4.75 
+            text = "<unk>" 
+        intervals [13]:
+            xmin = 4.75 
+            xmax = 5.616 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "phones" 
+        xmin = 0 
+        xmax = 5.616 
+        intervals: size = 15 
+        intervals [1]:
+            xmin = 0.0 
+            xmax = 1.06 
+            text = "" 
+        intervals [2]:
+            xmin = 1.06 
+            xmax = 1.16 
+            text = "ɪ" 
+        intervals [3]:
+            xmin = 1.16 
+            xmax = 1.19 
+            text = "ç" 
+        intervals [4]:
+            xmin = 1.19 
+            xmax = 1.35 
+            text = "spn" 
+        intervals [5]:
+            xmin = 1.35 
+            xmax = 2.16 
+            text = "spn" 
+        intervals [6]:
+            xmin = 2.16 
+            xmax = 2.57 
+            text = "spn" 
+        intervals [7]:
+            xmin = 2.57 
+            xmax = 2.78 
+            text = "spn" 
+        intervals [8]:
+            xmin = 2.78 
+            xmax = 3.35 
+            text = "spn" 
+        intervals [9]:
+            xmin = 3.35 
+            xmax = 3.79 
+            text = "spn" 
+        intervals [10]:
+            xmin = 3.79 
+            xmax = 4.05 
+            text = "spn" 
+        intervals [11]:
+            xmin = 4.05 
+            xmax = 4.12 
+            text = "ɪ" 
+        intervals [12]:
+            xmin = 4.12 
+            xmax = 4.22 
+            text = "n" 
+        intervals [13]:
+            xmin = 4.22 
+            xmax = 4.45 
+            text = "spn" 
+        intervals [14]:
+            xmin = 4.45 
+            xmax = 4.75 
+            text = "spn" 
+        intervals [15]:
+            xmin = 4.75 
+            xmax = 5.616 
+            text = "" 
