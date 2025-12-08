@@ -1,0 +1,1226 @@
+utt_id,wav_path,word_index,word_text,t_start,t_end,duration,ipa_canonical,mfa_phones,asr_phones
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,0,erneuerbare,0.630,1.220,0.590, ɛ ɾ n ɔø ɜ b ɑː r ə,ɛ ɐ n ɔʏ ɐ b aː ʁ ə,a n a j b a v
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,1,energien,1.220,1.770,0.550, eː n ɛ ɾ ɡ iː n,eː n ɛ ɐ ɟ ɪ n̩,ə n a ɡ iː ə n
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,2,werden,1.770,2.000,0.230,v ɛ ɾ d ə n,v eː ɐ d ə n,aː d n
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,3,wohl,2.000,2.120,0.120,v oː l,v oː l,
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,4,immer,2.120,2.530,0.410, ɪ m ɜ,ɪ m ɐ,m aː
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,5,günstiger,2.630,3.130,0.500,ɡ ʏ n s t ɪ ɡ ɜ,ɟ ʏ n s t ɪ ɡ ɐ,y n s t ɪ ɡ a
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,6,und,3.130,3.260,0.130, ʊ n t,ʊ n,a
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,7,preiswerter,3.260,3.840,0.580,p ɾ aɪ s v eː ɾ t ɜ,p ʁ aj s v eː ɐ tʰ ɐ,x ɑ5 ɕ yɛɜ ts.h əɜ
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,8,werden,3.840,4.280,0.440,v ɛ ɾ d ə n,v eː ɐ d ə n,v ɛ ɾ d ə
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,9,und,4.280,4.820,0.540, ʊ n t,ʊ n t,o n
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,10,sich,4.820,5.220,0.400,z ɪ ç,z ɪ ç,ts ə1 ɕ
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,11,immer,5.220,5.650,0.430, ɪ m ɜ,ɪ m ɐ,m aː
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,12,weiter,5.650,5.940,0.290,v aɪ t ɜ,v aj tʰ ɐ,v aɪ t ɑ
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,13,und,5.940,6.060,0.120, ʊ n t,ʊ n,
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,14,weiter,6.060,6.310,0.250,v aɪ t ɜ,v aj tʰ ɐ,m aː t u
+71030,C:\PY\pronuncise_research\mfa_corpus_german\71030.wav,15,verbreiten,6.310,6.940,0.630,f ɛ ɾ b ɾ aɪ t ə n,f ɛ ɐ b ʁ aj tʰ ə n,s o b a t n iː
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,0,ich,1.630,1.810,0.180, ɪ ç,ɪ ç,
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,1,mag,1.810,1.980,0.170,m ɑː k,m aː k,l a
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,2,am,1.980,2.100,0.120, a m,a m,a
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,3,liebsten,2.100,2.390,0.290,l iː b s t ə n,l iː p s t n̩,l e s
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,4,den,2.390,2.540,0.150,d eː n,d ɛ n,a
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,5,herbst,2.540,3.080,0.540,h ɛ ɾ p s t,h ɛ ʁ p s t,h æ p s
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,6,weil,3.740,4.250,0.510,v aɪ l,v aj l,v aɪ r
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,7,alles,4.250,4.870,0.620, a l ə s,a l ə s,n p æ l ə s
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,8,schön,4.870,5.140,0.270,ʃ øː n,ʃ øː n,s. əɜ n
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,9,bunt,5.140,5.440,0.300,b ʊ n t,b ʊ n t,p o n
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,10,ist,5.440,5.870,0.430, ɪ s t,ɪ s t,e s t
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,11,und,5.870,6.070,0.200, ʊ n t,ʊ n t,w
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,12,weil,6.070,6.220,0.150,v aɪ l,v aj l,a
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,13,es,6.220,6.400,0.180, ɛ s,ə s,s
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,14,viel,6.400,6.660,0.260,f iː l,f iː l,s. i5 n
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,15,zu,6.660,6.830,0.170,ts uː,ts ə,s o
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,16,essen,6.830,7.190,0.360, ɛ s ə n,ɛ s ə n,e s ə
+71096,C:\PY\pronuncise_research\mfa_corpus_german\71096.wav,17,gibt,7.190,7.630,0.440,ɡ iː p t,ɟ iː p t,ɪ p t
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,0,mein,1.730,1.970,0.240,m aɪ n,m aj n,m ai5
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,1,lieblingsgetränk,1.970,2.710,0.740,l iː b l ɪ ŋ s ɡ ə t ɾ ɛ ŋ k,spn,l iː b d ɪ ŋ s ɡ ə t r ɪ ŋ
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,2,ist,2.710,2.990,0.280, ɪ s t,ɪ s t,s
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,3,mineralwasser,2.990,3.820,0.830,m iː n eː r a l v a s ɜ,m ɪ n ɛ ʁ aː l v a s ɐ,m i n a k a t w ɑ s əɜ
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,4,ganz,3.920,4.160,0.240,ɡ a n ts,ɡ a n ts,k a
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,5,normales,4.160,4.500,0.340,n ɔ ɾ m ɑː l ə s,n ɔ m aː l ə s,a m a r
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,6,mineralwasser,4.500,5.320,0.820,m iː n eː r a l v a s ɜ,m ɪ n ɛ ʁ aː l v a s ɐ,m i n x a l b a s ə
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,7,sprudelwasser,5.710,6.870,1.160,ʃ p ɾ uː d ə l v a s ɜ,ʃ p ʁ uː d ə l v a s ɐ,ʃ p uː d i k a s ɛ a
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,8,mit,6.900,7.040,0.140,m ɪ t,m ɪ t,m i
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,9,kohlensäure,7.040,7.570,0.530,k oː l ə n z ɔø r ə,kʰ oː l n̩ z ɔʏ ʁ ə,kh ə5 n ts ə1 ʐ i.5
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,10,ich,7.570,7.690,0.120, ɪ ç,ɪ ç,
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,11,meine,7.690,7.880,0.190,m aɪ n ə,m aj n ə,m a d
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,12,ich,7.880,8.020,0.140, ɪ ç,ɪ ç,s
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,13,würde,8.020,8.130,0.110,v ʏ ɾ d ə,v ʏ ʁ d ə,i
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,14,es,8.130,8.190,0.060, ɛ s,ə s,
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,15,auch,8.190,8.300,0.110, aʊ x,aw x,
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,16,ohne,8.330,8.510,0.180, oː n ə,oː n ə,w a
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,17,kohlensäure,8.510,8.970,0.460,k oː l ə n z ɔø r ə,kʰ oː l n̩ z ɔʏ ʁ ə,k w o n z a
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,18,trinken,8.970,9.400,0.430,t ɾ ɪ ŋ k ə n,t ʁ ɪ ŋ kʰ n̩,t r iː n j a ħ a
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,19,aber,9.440,9.570,0.130, ɑː b ɜ,a b ɐ,
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,20,mit,10.000,10.290,0.290,m ɪ t,m ɪ t,m i t
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,21,sprudel,10.290,10.770,0.480,ʃ p ɾ uː d ə l,ʃ p ʁ uː d ə l,p oʊ d ə
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,22,ich,10.770,10.900,0.130, ɪ ç,ɪ ç,e s
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,23,weiß,10.900,11.130,0.230,v aɪ s,spn,a z
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,24,auch,11.130,11.170,0.040, aʊ x,aw x,
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,25,nicht,11.170,11.360,0.190,n ɪ ç t,n ɪ ç t,l i s
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,26,ist,11.360,11.770,0.410, ɪ s t,ɪ s,ɪ s
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,27,so,11.770,11.880,0.110,z oː,z oː,s
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,28,eine,12.010,12.140,0.130, aɪ n ə,aj n ə,ħ a
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,29,gewohnheitssache,12.140,13.510,1.370,ɡ ə v oː n h aɪ t s a x ə,spn,ɪ s ə n k uː n h a ts a x a
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,30,aber,13.510,13.690,0.180, ɑː b ɜ,a b ɐ,b a
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,31,wasser,13.690,14.060,0.370,v a s ɜ,v a s ɐ,s ə
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,32,ist,14.060,14.460,0.400, ɪ s t,ɪ s,ei5 s əɜ
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,33,auch,15.170,15.500,0.330, aʊ x,aw x,a
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,34,wenn,15.500,15.570,0.070,v ɛ n,v ɛ n,
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,35,man,15.570,15.710,0.140,m a n,m a n,b a
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,36,jetzt,15.710,15.880,0.170,j ɛ ts t,j ɛ ts,j e t
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,37,sagt,15.880,16.100,0.220,z ɑː k t,z aː k t,a t
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,38,das,16.300,16.540,0.240,d a s,d aː s,d ə s
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,39,hat,16.540,16.640,0.100,h a t,h a t,a
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,40,ja,16.640,16.730,0.090,j ɑː,j aː,
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,41,keinen,16.730,17.000,0.270,k aɪ n ə n,kʰ aj n n̩,k aɪ n
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,42,geschmack,17.000,17.510,0.510,ɡ ə ʃ m a k,ɡ ə ʃ m a k,ʊ s m a k eː
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,43,an,17.510,17.610,0.100, a n,a n,
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,44,sich,17.610,17.860,0.250,z ɪ ç,z ɪ ç,s e ʃ
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,45,mein,18.380,18.470,0.090,m aɪ n,m aj n,i
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,46,lieblingsgetränk,18.470,19.070,0.600,l iː b l ɪ ŋ s ɡ ə t ɾ ɛ ŋ k,spn,s i a n
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,47,ist,19.660,19.770,0.110, ɪ s t,ɪ s,
+71254,C:\PY\pronuncise_research\mfa_corpus_german\71254.wav,48,wasser,19.770,21.100,1.330,v a s ɜ,v a s ɐ,ɛ l iː b l ɪ ŋ s ɡ ɪ t r ɪ ŋ k ɪ s v a s ə
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,0,wenn,1.740,1.860,0.120,v ɛ n,v ɛ n,a
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,1,man,1.860,1.960,0.100,m a n,m a n,a
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,2,mich,1.960,2.110,0.150,m ɪ ç,m ɪ ç,e s
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,3,fragt,2.110,2.370,0.260,f r ɑː k t,f ʁ aː k t,v ɑ
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,4,welches,2.370,2.700,0.330,v ɛ l ç ə s,v ɛ l ç ə s,w a h i z
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,5,tier,2.700,3.150,0.450,t iː ɾ,tʰ iː ɐ,th j iɛ5
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,6,ich,3.150,3.410,0.260, ɪ ç,ɪ ç,ɕ
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,7,am,3.410,3.500,0.090, a m,a m,
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,8,meisten,3.500,4.020,0.520,m aɪ s t ə n,m aj s t n̩,m aɪ s t
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,9,mag,4.020,4.270,0.250,m ɑː k,m aː k,m h a t
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,10,und,4.270,4.440,0.170, ʊ n t,ʊ n,a d
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,11,warum,4.440,4.880,0.440,v ɑː r ʊ m,v aː ʁ ʊ m,ɹ n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,12,das,5.200,5.530,0.330,d a s,d aː s,t aː z ə d
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,13,kann,5.530,5.680,0.150,k a n,kʰ a n,th a n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,14,ich,5.680,5.740,0.060, ɪ ç,ɪ ç,
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,15,nicht,5.740,5.920,0.180,n ɪ ç t,n ɪ ç,m i ʃ
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,16,beantworten,5.920,6.340,0.420,b ə a n t v ɔ ɾ t ə n,b ə a n t v ɔ ʁ tʰ n̩,p a5 n f uoɜ t
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,17,ich,6.340,6.480,0.140, ɪ ç,ɪ ç,i s
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,18,mag,6.480,6.660,0.180,m ɑː k,m aː k,m a
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,19,alle,6.660,6.840,0.180, a l ə,a l ə,a l
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,20,tiere,6.840,7.200,0.360,t iː r ə,tʰ iː ʁ ə,t i r ɑ
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,21,auf,7.200,7.410,0.210, aʊ f,aw f,
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,22,gleiche,7.470,7.850,0.380,ɡ l aɪ ç ə,ɡ l aj ç ə,l ai5 ɕ iɑ5
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,23,art,7.850,7.990,0.140, a ɾ t,aː ɐ t,t
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,24,und,7.990,8.110,0.120, ʊ n t,ʊ n t,
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,25,weise,8.110,8.480,0.370,v aɪ z ə,v aj z ə,aɪ z ə
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,26,natürlich,8.810,9.210,0.400,n ɑː t yː ɾ l ɪ ç,n a tʰ yː l ɪ ç,n a t r i ʃ
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,27,hat,9.210,9.420,0.210,h a t,h a t,a
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,28,man,9.420,10.360,0.940,m a n,m a n,a n a m
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,29,durch,10.630,10.840,0.210,d ʊɐ ç,d ʊ ɐ ç,t oɪ
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,30,seine,10.840,11.240,0.400,z aɪ n ə,z aj n ə,a5 n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,31,lebenserfahrung,11.460,12.280,0.820,l eː b ə n z ɜ f ɑː r ʊ ŋ,l eː b n̩ s ɛ ɐ f aː ʁ ʊ ŋ,l iː b ə n ts ɛ ɾ f a h ʊ
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,32,denke,12.280,12.490,0.210,d ɛ ŋ k ə,d ɛ ŋ kʰ ə,ai5 n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,33,ich,12.490,12.580,0.090, ɪ ç,ɪ ç,s
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,34,mal,12.580,12.730,0.150,m ɑː l,m aː l,m a
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,35,mehr,12.730,12.950,0.220,m eː ɾ,m eː ɐ,m i
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,36,mit,12.950,13.230,0.280,m ɪ t,m ɪ t,m ɹ ɪ s
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,37,katzen,13.940,14.490,0.550,k a ts ə n,kʰ a ts ə n,k a ts ə n h
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,38,hunden,14.490,15.180,0.690,h ʊ n d ə n,h ʊ n d ə n,h u n n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,39,terrariumtieren,16.010,17.140,1.130,t ɛ r a r iː ʊ m t iː r ə n,spn,eː m a m t eː r a r j uː n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,40,weiß,17.140,17.860,0.720,v aɪ s,spn,th i5 əɜ n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,41,ich,18.600,18.750,0.150, ɪ ç,ɪ ç,s
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,42,nicht,18.750,18.890,0.140,n ɪ ç t,n ɪ ç,
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,43,kaninchen,18.890,19.530,0.640,k ɑ n ɪ n ç ə n,kʰ a n iː ɲ ç ə n,k a5 n i5 n tɕh əɜ
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,44,sowas,19.530,19.970,0.440,z oː v ɑː s,z oː v a s,z e b aː s
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,45,was,20.000,20.910,0.910,v a s,v a s,a m v a s v a s a s
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,46,menschen,20.910,21.470,0.560,m ɛ n ʃ ə n,m ɛ n ʃ ə n,m ɛ n ʃ t
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,47,halt,21.470,21.690,0.220,h a l t,h a l t,a l k
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,48,in,21.990,22.280,0.290, ɪ n,ɪ n,m
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,49,der,22.310,22.560,0.250,d ɛ ɾ,d eː ʁ,d i
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,50,näheren,22.560,22.860,0.300,n ɛː ə r ə n,n eː ə ʁ ə n,m eɪ x ə n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,51,umgebung,22.860,23.290,0.430, ʊ m ɡ eː b ʊ ŋ,ʊ m ɟ eː b ʊ ŋ,ɡ eː v ə ŋ
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,52,so,23.290,23.400,0.110,z oː,z oː,
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,53,zu,23.400,23.570,0.170,ts uː,ts uː,s a
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,54,hause,23.570,23.830,0.260,h aʊ z ə,h aw z ə,a z
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,55,haben,23.830,24.140,0.310,h ɑː b ə n,h aː b n̩,h a b ə n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,56,nager,24.650,25.350,0.700,n ɑː ɡ ɜ,n aː ɡ ɐ,n ɑ5 k ə1
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,57,irgendwie,25.900,26.920,1.020, ɪ ɾ ɡ ə n d v iː,ɪ ɐ ɡ n̩ d v iː,aː e ŋ f i
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,58,ein,26.920,26.980,0.060, aɪ n,n̩,
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,59,besseres,26.980,27.370,0.390,b ɛ s ə r ə s,b ɛ s ə ʁ ə s,d ɛ s ə l ə
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,60,verhältnis,27.370,27.790,0.420,f ɛ ɾ h ɛ l t n ɪ s,f ɛ ɐ h ɛ l t n ɪ s,f a h iː k n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,61,als,27.790,28.030,0.240, a l s,a l s,a5 n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,62,jetzt,28.030,28.240,0.210,j ɛ ts t,j ɛ ts t,ɪ t
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,63,mit,28.240,28.460,0.220,m ɪ t,m ɪ t,m i
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,64,keine,28.460,28.670,0.210,k aɪ n ə,kʰ aj n ə,ai5 n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,65,ahnung,28.670,29.030,0.360, ɑː n ʊ ŋ,aː n ʊ ŋ,a n u
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,66,löwen,29.710,29.830,0.120,l øː v ə n,l øː v n,
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,67,giraffen,29.830,30.190,0.360,ɡ iː r a f ə n,ɟ ɪ ʁ a f ə n,
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,68,keine,30.430,30.680,0.250,k aɪ n ə,kʰ aj n ə,ħ
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,69,ahnung,30.680,30.970,0.290, ɑː n ʊ ŋ,aː n ʊ ŋ,a p i l d a
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,70,solchen,30.970,31.330,0.360,z oː l ç ə n,z ɔ l ç ə n,œ s ə n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,71,tieren,31.330,31.470,0.140,t iː r ə n,tʰ iː ɐ n,t iɜ
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,72,exotischere,31.470,33.240,1.770, ɛ k s oː t ɪ ʃ ə r ə,spn,t ɑː f ə n ə k aɪ n a ə ɔ z aɪ ç ə n t ə t iː
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,73,tiere,33.240,33.500,0.260,t iː r ə,tʰ iː ʁ ə,tɕh iɛ5 n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,74,oder,33.500,33.690,0.190, oː d ɜ,oː d ɐ,a
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,75,hier,33.720,33.810,0.090,h iː ɾ,ç iː ɐ,
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,76,auch,33.810,33.850,0.040, aʊ x,aw x,
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,77,wildtiere,33.850,34.410,0.560,v ɪ l t iː r ə,v ɪ l tʰ iː ʁ ə,k s oʊ d i ʃ e r e
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,78,wildschweine,34.410,36.380,1.970,v ɪ l t ʃ v aɪ n ə,v ɪ l t ʃ v aj n ə,t iː r ə n oː d ə h iː aʊ x v ɪ l t iː r b ɪ r ɪ tʃ p aɪ n ə
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,79,dachs,36.860,37.100,0.240,d a x s,d a x s,m
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,80,fuchs,37.270,37.740,0.470,f ʊ x s,f ʊ k s,d a k s ə
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,81,keine,38.340,38.590,0.250,k aɪ n ə,kʰ aj n ə,th ai5 n əɜ
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,82,ahnung,38.590,38.900,0.310, ɑː n ʊ ŋ,aː n ʊ ŋ,a l onɡ5
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,83,aber,39.390,39.900,0.510, ɑː b ɜ,a b ɐ,a b a m
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,84,mögen,39.940,40.290,0.350,m øː ɡ ə n,m øː ɡ n̩,n ʉ
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,85,tue,40.290,40.440,0.150,t uː ə,tʰ uː ə,ɕ y5
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,86,ich,40.440,40.500,0.060, ɪ ç,ɪ ç,
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,87,es,40.500,40.570,0.070, ɛ s,ə s,
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,88,allesamt,40.570,41.190,0.620, a l eː z a m t,a l ə z a m t,a l ə z a m t
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,89,also,41.220,41.490,0.270, a l z oː,a l z oː,a z u
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,90,würde,41.880,42.120,0.240,v ʏ ɾ d ə,v ʏ ʁ d ə,b y ɭʲ
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,91,ich,42.120,42.220,0.100, ɪ ç,ɪ ç,s
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,92,sagen,42.220,42.610,0.390,z ɑː ɡ ə n,z aː ɡ n̩,s ʌ n
+71255,C:\PY\pronuncise_research\mfa_corpus_german\71255.wav,93,ja,44.040,44.380,0.340,j ɑː,j aː,j iɑ5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,0,was,1.980,2.340,0.360,v a s,v a s,a m a
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,1,ich,2.340,2.480,0.140, ɪ ç,ɪ ç,i s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,2,im,2.480,2.560,0.080, ɪ m,ɪ m,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,3,alltag,2.560,3.010,0.450, a l t ɑː k,a l tʰ aː k,th a5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,4,tue,3.010,3.350,0.340,t uː ə,tʰ uː ə,ts.h u5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,5,um,3.350,3.470,0.120, ʊ m,ʊ m,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,6,die,3.470,3.580,0.110,d iː,d iː,i5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,7,umwelt,3.580,3.950,0.370, ʊ m v ɛ l t,ʊ m v ɛ l t,ʊ n v ɛ t
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,8,zu,3.950,4.060,0.110,ts uː,ts uː,s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,9,schützen,4.060,4.480,0.420,ʃ ʏ ts ə n,ʃ ʏ ts n̩,ʃ ɜː ts n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,10,das,4.480,4.690,0.210,d a s,d aː s,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,11,sind,4.690,4.990,0.300,z ɪ n t,z ɪ n t,ɪ n ts.
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,12,ganz,5.250,5.520,0.270,ɡ a n ts,ɡ a n ts,k a n s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,13,simple,5.520,5.840,0.320,z ɪ m p l ə,z ɪ m p l ə,ɪ m p l ɚ
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,14,sachen,5.840,6.240,0.400,z a x ə n,z a x ə n,z aː ħ m
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,15,ich,6.240,6.570,0.330, ɪ ç,ɪ ç,iː
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,16,würde,6.610,7.030,0.420,v ʏ ɾ d ə,v ʏ d ə,ʔ m
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,17,niemals,7.670,8.880,1.210,n iː m ɑː l s,n iː m aː l s,v yː ɾ d ə n iː m a l ts
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,18,irgendwelchen,10.330,11.200,0.870, ɪ ɾ ɡ ə n d v ɛ l ç ə n,ɪ ʁ ɡ ə n t v ɛ l ç ə n,iː ɡ ə n f ɛ ç n ə
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,19,müll,11.360,11.700,0.340,m ʏ l,m ʏ l,m j
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,20,taschentücher,11.700,12.350,0.650,t a ʃ ə n t ʏ ç ɜ,spn,t a s t yː ɕ iː
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,21,abfall,12.350,13.620,1.270, a p f a l,a p f a l,a a p f aɪ
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,22,von,13.620,13.950,0.330,f ɔ n,f ɔ n,s ɔ n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,23,konsumierten,13.950,15.770,1.820,k ɔ n z uː m iː ɾ t ə n,spn,f ɔ n s t ɛ ɾ k ɔ z ə n b iː ɛ t ə n ə
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,24,sachen,15.770,16.070,0.300,z a x ə n,z a x ə n,z a x n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,25,oder,16.070,16.210,0.140, oː d ɜ,oː d ɐ,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,26,sowas,16.210,16.500,0.290,z oː v ɑː s,z oː v a s,z u
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,27,in,16.500,16.610,0.110, ɪ n,ɪ n,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,28,die,16.610,16.710,0.100,d iː,d iː,d
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,29,natur,16.710,17.140,0.430,n a t uː ɾ,n a tʰ uː ɐ,n a t uː v
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,30,werfen,17.140,17.520,0.380,v ɛ ɾ f ə n,v ɛ ʁ f ə n,ɛ f ə n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,31,ich,18.060,18.420,0.360, ɪ ç,ɪ ç,ɛ s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,32,gehöre,18.450,19.060,0.610,ɡ ə h øː r ə,ɡ ə h øː ɐ,a n aː ɡ u h a r
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,33,eher,19.060,19.280,0.220, eː ɜ,eː ɐ,ei5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,34,zu,19.280,19.430,0.150,ts uː,ts uː,s. ə5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,35,den,19.430,19.530,0.100,d eː n,d ɛ n,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,36,leuten,19.530,19.890,0.360,l ɔø t ə n,l ɔʏ tʰ n̩,l aɪ t n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,37,die,19.890,20.210,0.320,d iː,d iː,t i
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,38,wenn,20.680,21.010,0.330,v ɛ n,v ɛ n,v a n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,39,sie,21.010,21.330,0.320,z iː,z iː,s. i5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,40,im,21.330,21.730,0.400, ɪ m,ɪ m,a m
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,41,park,22.230,22.570,0.340,p a ɾ k,pʰ a ʁ k,p a k
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,42,oder,22.570,22.680,0.110, oː d ɜ,oː d ɐ,o ɾ
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,43,im,22.680,22.790,0.110, ɪ m,ɪ m,n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,44,see,22.790,23.010,0.220,z eː,z eː,s i5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,45,spazieren,23.010,23.540,0.530,ʃ p a ts iː r ə n,ʃ p a ts iː ʁ ə n,ʃ p a ts iː ɪ ŋ
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,46,gehen,23.540,23.750,0.210,ɡ eː ə n,ɟ eː ə n,tɕh i5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,47,und,24.160,24.650,0.490, ʊ n t,ʊ n t,ɑ n t
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,48,einfach,24.650,25.400,0.750, aɪ n f a x,aj n f a x,aɪ n f a x
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,49,unmöglich,25.400,26.010,0.610, ʊ n m øː k l ɪ ç,ʊ n m øː k l ɪ ç,ʊ n m øː k l ɪ ʃ
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,50,viel,26.010,26.260,0.250,f iː l,f iː l,i l
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,51,müll,26.260,26.880,0.620,m ʏ l,m ʏ l,m a ɹ
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,52,verteilt,26.920,27.490,0.570,f ɛ ɾ t aɪ l t,f ɛ ɐ tʰ aj l t,f ɜː t eɪ l ɪ
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,53,sehen,27.490,27.800,0.310,z eː ə n,z eː ə n,i5 n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,54,mit,28.280,28.350,0.070,m ɪ t,m ɪ t,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,55,dem,28.350,28.420,0.070,d eː m,d ə m,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,56,gedankenspielen,28.420,29.550,1.130,ɡ ə d a n k ə n ʃ p iː l ə n,spn,a m m ɪ t ɪ b ɡ ɪ d a ŋ n ʃ p ɪ n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,57,das,29.550,29.730,0.180,d a s,d aː s,a s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,58,aufzuheben,29.730,30.570,0.840, aʊ f ts uː h eː b ə n,aw f ts uː h eː b ə n,ɑː f ts ɚ h ɪ m
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,59,was,30.570,30.750,0.180,v a s,v a s,a s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,60,ich,31.030,31.320,0.290, ɪ ç,ɪ ç,e s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,61,auch,31.410,31.480,0.070, aʊ x,aw x,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,62,ab,31.480,31.620,0.140, a p,a p,a
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,63,und,31.620,31.710,0.090, ʊ n t,ʊ n,a
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,64,zu,31.710,31.830,0.120,ts uː,ts uː,s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,65,tue,31.830,32.240,0.410,t uː ə,tʰ uː ə,th u5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,66,aber,32.240,32.460,0.220, ɑː b ɜ,a b ɐ,a b a
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,67,nicht,32.460,32.920,0.460,n ɪ ç t,n ɪ ç,n eɪ s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,68,regelmäßig,33.000,33.920,0.920,r eː ɡ ə l m ɛː s ɪ ç,spn,ʃ iː l x u m h i s n i ʃ t
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,69,aber,34.130,34.490,0.360, ɑː b ɜ,a b ɐ,a b a
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,70,es,34.760,34.890,0.130, ɛ s,ɛ s,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,71,kommt,34.890,35.460,0.570,k ɔ m t,kʰ ɔ m t,h aː n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,72,vor,36.270,36.500,0.230,f ɔ ɾ,f oː ɐ,s k o
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,73,dass,36.500,36.660,0.160,d a s,d a s,s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,74,wir,36.660,37.250,0.590,v iː ɾ,v iː ɐ,oː l ɪ s m ɪ
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,75,mit,37.250,37.420,0.170,m ɪ t,m ɪ t,m a
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,76,so,37.420,37.560,0.140,z oː,z oː,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,77,einer,37.560,37.680,0.120, aɪ n ɜ,aj n ɐ,a t
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,78,greifzange,37.680,38.310,0.630,ɡ ɾ aɪ f ts a ŋ ə,spn,r aɪ f t ts a ŋ eː b
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,79,bewaffnet,38.310,38.980,0.670,b ə v a f n ə t,b ə v a f n ə t,ð ə v æ s t n ɪ s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,80,rausgehen,38.980,39.490,0.510,r aʊ s ɡ eː ə n,ʁ aw s ɟ eː ə n,aʊ s k ɪ n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,81,und,39.490,39.790,0.300, ʊ n t,ʊ n t,ɔ n t
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,82,den,40.370,40.480,0.110,d eː n,d eː n,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,83,müll,40.480,40.680,0.200,m ʏ l,m ʏ l,m l
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,84,aufsammeln,40.680,41.110,0.430, aʊ f z a m ə l n,spn,a s a m i n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,85,weil,41.110,41.450,0.340,v aɪ l,v aj l,m a l
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,86,die,41.450,41.960,0.510,d iː,d ɪ,th i5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,87,menschen,42.190,42.500,0.310,m ɛ n ʃ ə n,m ɛ n ʃ ə n,m a n tʃ i
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,88,teilweise,42.500,42.920,0.420,t aɪ l v aɪ z ə,tʰ aj l v aj z ə,th ai5 p a5 tɕh
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,89,ja,42.920,42.990,0.070,j ɑː,j aː,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,90,nicht,42.990,43.180,0.190,n ɪ ç t,n ɪ ç t,m i s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,91,in,43.180,43.240,0.060, ɪ n,ɪ n,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,92,der,43.240,43.330,0.090,d ɛ ɾ,d eː ʁ,a
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,93,lage,43.330,43.580,0.250,l ɑː ɡ ə,l aː ɡ ə,m a s k i
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,94,dazu,43.580,43.840,0.260,d ɑː ts uː,d a ts uː,r a s u
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,95,sind,43.840,44.100,0.260,z ɪ n t,z ɪ n t,z i n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,96,obwohl,44.100,44.360,0.260, ɔ p v oː l,ɔ p v oː l,a b
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,97,der,44.360,44.450,0.090,d ɛ ɾ,d eː ʁ,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,98,mülleimer,44.450,44.840,0.390,m ʏ l aɪ m ɜ,m ʏ l aj m ɐ,m y l aɪ b a
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,99,vorhanden,44.840,45.290,0.450,f oː ɾ h a n d ə n,f oː ɐ h a n d n̩,f a h a n ə
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,100,ist,45.290,45.480,0.190, ɪ s t,ɪ s t,s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,101,das,45.480,45.600,0.120,d a s,d aː s,s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,102,da,45.600,45.710,0.110,d ɑː,d aː,a
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,103,reinzuwerfen,45.710,45.920,0.210,r aɪ n ts uː v ɜ f ə n,spn,ai5 ts
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,104,das,45.920,46.100,0.180,d a s,d aː s,d a f
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,105,sind,46.470,46.590,0.120,z ɪ n t,z ɪ n,t
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,106,so,46.590,46.690,0.100,z oː,z oː,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,107,kleinigkeiten,46.690,47.350,0.660,k l aɪ n ɪ ç k aɪ t ə n,k l aj n ɪ ç kʰ aj tʰ n̩,p l aɪ n ɪ s t aɪ t ə n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,108,und,47.860,48.220,0.360, ʊ n t,ʊ n t,u n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,109,was,48.220,48.910,0.690,v a s,v a s,aː m b a s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,110,ich,48.910,49.200,0.290, ɪ ç,ɪ ç,i s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,111,hauptsächlich,49.370,49.950,0.580,h aʊ p t z ɛ ç l ɪ ç,h aw p t z ɛ ç l ɪ ç,h a p ts e ʃ iː
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,112,noch,49.950,50.110,0.160,n ɔ x,n ɔ x,n u
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,113,tue,50.110,50.430,0.320,t uː ə,tʰ uː ə,th u5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,114,um,50.430,50.710,0.280, ʊ m,ʊ m,ʔ
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,115,die,50.710,51.090,0.380,d iː,d iː,t i5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,116,umwelt,51.090,51.380,0.290, ʊ m v ɛ l t,ʊ m v ɛ l t,u b a
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,117,zu,51.380,51.470,0.090,ts uː,ts uː,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,118,schützen,51.470,51.920,0.450,ʃ ʏ ts ə n,ʃ ʏ ts ə n,ʃ y ts ə n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,119,ich,52.660,53.030,0.370, ɪ ç,ɪ ç,i s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,120,respektiere,54.360,55.060,0.700,r ɛ s p ɛ k t iː r ə,ʁ ɛ s p ɛ k tʰ iː ʁ ə,ɾ a s p ɛ k t iː v
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,121,die,55.060,55.190,0.130,d iː,d iː,t i
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,122,umwelt,55.190,55.740,0.550, ʊ m v ɛ l t,ʊ m v ɛ l t,ʊ n v ɛ t
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,123,ich,55.770,56.150,0.380, ɪ ç,ɪ ç,i s t
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,124,schaue,56.760,57.160,0.400,ʃ aʊ ə,ʃ aw ə,ʃ a w
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,125,mir,57.160,57.350,0.190,m iː ɾ,m ə,m a
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,126,die,57.350,57.640,0.290,d iː,d iː,t i5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,127,natur,57.640,58.170,0.530,n a t uː ɾ,n a tʰ uː ɐ,n a t uː
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,128,an,58.170,58.460,0.290, a n,a n,
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,129,ich,58.460,58.800,0.340, ɪ ç,ɪ ç,i
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,130,bin,60.080,60.240,0.160,b ɪ n,b ɪ n,b i n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,131,fasziniert,60.240,60.990,0.750,f a s ts iː n iː ɾ t,f a s ts ɪ n iː ɐ t,f ɑː s ts iː n j eː t
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,132,von,60.990,61.330,0.340,f ɔ n,f ɔ n,a5 n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,133,natur,61.440,62.150,0.710,n a t uː ɾ,n a tʰ uː ɐ,n ə1 th u5
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,134,pflanzen,62.940,63.760,0.820,pf l a n ts ə n,pf l a n ts ə n,f l a t ə n ts ə n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,135,und,64.440,64.630,0.190, ʊ n t,ʊ n t,a n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,136,solchen,64.630,64.960,0.330,z oː l ç ə n,z ɔ l ç ə n,o5 ɕ iɜ n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,137,dingen,64.960,65.460,0.500,d ɪ ŋ ə n,d ɪ ŋ n̩,t i5 ŋ
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,138,ich,65.920,66.070,0.150, ɪ ç,ɪ ç,s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,139,glaube,66.070,66.260,0.190,ɡ l aʊ b ə,ɡ l aw b ə,k ɔ
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,140,das,66.290,66.440,0.150,d a s,d aː s,a s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,141,ist,66.440,66.820,0.380, ɪ s t,ɪ s,s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,142,das,67.180,67.360,0.180,d a s,d aː s,t s
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,143,trick,67.360,67.600,0.240,t ɾ ɪ k,t ʁ ɪ k,t i
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,144,zum,67.600,67.810,0.210,ts ʊ m,ts uː m,s a m
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,145,schutz,67.810,68.180,0.370,ʃ ʊ ts,ʃ ʊ ts,ʃ oː
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,146,auf,68.180,68.360,0.180, aʊ f,aw f,f
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,147,jeden,68.360,68.500,0.140,j eː d ə n,j eː d n̩,n
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,148,fall,68.500,68.690,0.190,f a l,f a l,s aɪ
+71257,C:\PY\pronuncise_research\mfa_corpus_german\71257.wav,149,bei,68.690,69.120,0.430,b aɪ,b aj,p aː l i
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,0,oh,1.080,1.540,0.460, oː,oː,onɡ5 w ɑu5
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,1,wow,1.830,2.080,0.250,v oː f,v ɔ f,b aː
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,2,wie,2.860,3.180,0.320,v iː,v iː,v iː
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,3,viel,3.180,3.530,0.350,f iː l,f iː l,f iː l
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,4,zeit,3.530,4.060,0.530,ts aɪ t,ts aj t,s aɪ d
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,5,hast,4.280,4.620,0.340,h a s t,h a s t,h a s t
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,6,du,4.620,4.750,0.130,d uː,d uː,
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,7,nein,4.750,4.870,0.120,n aɪ n,n aj n,
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,8,in,4.870,4.930,0.060, ɪ n,ɪ n,
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,9,wirklichkeit,4.930,5.760,0.830,v ɪ ɾ k l ɪ ç k aɪ t,v ɪ ʁ k l ɪ ç kʰ aj t,uei5 f ei5 x ei5
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,10,es,6.760,6.970,0.210, ɛ s,ɛ s,
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,11,gibt,7.150,7.840,0.690,ɡ iː p t,ɟ iː p t,ɛ ə n v ɪ k k ɛ
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,12,sowas,8.880,9.280,0.400,z oː v ɑː s,z oː v a s,t e b a s
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,13,in,9.280,9.600,0.320, ɪ n,ɪ n,n
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,14,meinem,9.600,9.800,0.200,m aɪ n ə m,m aj m,m aɪ
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,15,leben,9.800,10.000,0.200,l eː b ə n,l eː b n̩,d i m
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,16,gibt,10.000,10.210,0.210,ɡ iː p t,ɟ ɪ p t,ɡ i t
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,17,es,10.210,10.400,0.190, ɛ s,ə s,s
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,18,nicht,10.400,10.850,0.450,n ɪ ç t,n ɪ ç,m i s
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,19,den,10.880,11.230,0.350,d eː n,d eː n,d iː n
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,20,lieblingsfilm,11.230,11.990,0.760,l iː b l ɪ ŋ s f ɪ l m,l iː p l ɪ ŋ s f ɪ l m,d iː p l ɪ ŋ k s f ɜː
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,21,film,12.360,12.500,0.140,f ɪ l m,f ɪ l m,
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,22,ist,12.500,12.560,0.060, ɪ s t,ɪ s,
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,23,ein,12.560,12.630,0.070, aɪ n,aj n,
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,24,wahnsinnig,12.630,13.480,0.850,v ɑː n z ɪ n ɪ ç,v aː n z ɪ n ɪ k,æ s ɪ l m
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,25,tolles,13.480,13.870,0.390,t ɔ l ə s,tʰ ɔ l ə s,s
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,26,medium,13.930,14.610,0.680,m eː d iː ʊ m,m ɛ d ɪ ʊ m,aɪ l m n
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,27,es,15.400,15.480,0.080, ɛ s,ɛ s,
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,28,gibt,15.480,15.840,0.360,ɡ iː p t,ɟ iː p t,aɪ n ɕ t
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,29,sehr,15.940,16.470,0.530,z eː ɾ,z eː ɐ,ɾ ə s ʌ
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,30,viele,17.080,17.390,0.310,f iː l ə,f iː l ə,m eɪ d ɔ
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,31,filme,17.390,17.660,0.270,f ɪ l m ə,f ɪ l m ə,a m u n
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,32,die,17.660,18.160,0.500,d iː,d ɪ,t a m
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,33,mich,19.430,19.970,0.540,m ɪ ç,m ɪ ç,i s t e
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,34,auf,20.110,20.240,0.130, aʊ f,aw f,
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,35,verschiedenen,20.450,21.020,0.570,f ɛ ɾ ʃ iː d ə n ə n,f ɛ ɐ ʃ iː d ə n ə n,f i5 l əɜ
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,36,ebenen,21.130,21.540,0.410, eː b ə n ə n,eː b ə n ə n,ɛ p l y
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,37,berühren,21.570,21.900,0.330,b ə r yː r ə n,b ə ʁ yː ʁ ə n,iɛ5 t əɜ
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,38,und,21.900,22.020,0.120, ʊ n t,ʊ n t,
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,39,ich,22.020,22.530,0.510, ɪ ç,ɪ ç,iɛ5 n f i5 l i.5
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,40,würde,22.530,22.710,0.180,v ʏ ɾ d ə,v ʏ ʁ d ə,m
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,41,die,22.710,22.800,0.090,d iː,d iː,i
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,42,niemals,22.800,23.380,0.580,n iː m ɑː l s,n iː m aː l s,n ʃ aʊ
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,43,gegeneinander,23.560,24.730,1.170,ɡ eː ɡ ə n aɪ n a n d ɜ,ɟ eː ɡ ə n aj n a n d ɐ,iː n ɪ n iː b ə n ʊ n n a
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,44,aufrechnen,24.760,25.160,0.400, aʊ f r ɛ ç n ə n,aw f ʁ ɛ ç n ə n,u k u j a n
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,45,oder,25.160,25.310,0.150, oː d ɜ,oː d ɐ,onɡ5 n
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,46,miteinander,25.510,26.170,0.660,m ɪ t aɪ n a n d ɜ,m ɪ tʰ ə n a n d ɐ,ʌ d iː n iː m aɪ
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,47,messen,26.170,26.370,0.200,m ɛ s ə n,m ɛ s n̩,s
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,48,weil,26.520,26.610,0.090,v aɪ l,v aj l,
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,49,sie,26.610,26.790,0.180,z iː,z iː,l
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,50,alle,26.790,27.200,0.410, a l ə,a l ə,ŋ t əɜ
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,51,auf,27.200,27.400,0.200, aʊ f,aw f,onɡ5 ts.h
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,52,ihre,27.430,27.660,0.230, iː r ə,iː ʁ ə,ʌ sʲ n ʌ
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,53,art,27.660,27.770,0.110, a ɾ t,aː ɐ t,n
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,54,und,27.770,27.880,0.110, ʊ n t,ʊ n,u
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,55,weise,27.880,28.060,0.180,v aɪ z ə,v aj z ə,ai5
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,56,großartig,28.060,28.960,0.900,ɡ ɾ oː s a ɾ t ɪ ç,spn,b ɪ t ə n a d a m ɛ s ə n
+71258,C:\PY\pronuncise_research\mfa_corpus_german\71258.wav,57,sind,29.670,30.300,0.630,z ɪ n t,z ɪ n t,a z i h i ʔ a l aː f
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,0,ja,0.840,1.060,0.220,j ɑː,j aː,i h a
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,1,ich,1.060,1.130,0.070, ɪ ç,ɪ ç,
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,2,koche,1.130,1.440,0.310,k ɔ x ə,spn,t aʊ x ə n
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,3,gerne,1.440,1.850,0.410,ɡ ɛ ɾ n ə,ɟ ɛ ʁ n ə,ɡ a ʔ n a
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,4,und,1.850,2.010,0.160, ʊ n t,ʊ n t,
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,5,zwar,2.010,2.530,0.520,ts v ɑː ɾ,ts v aː ɐ,s b aː
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,6,alles,2.650,3.160,0.510, a l ə s,a l ə s,a r ə s
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,7,also,3.260,3.440,0.180, a l z oː,a l z oː,
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,8,ich,3.440,3.730,0.290, ɪ ç,ɪ ç,ɹ
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,9,würde,4.130,4.440,0.310,v ʏ ɾ d ə,v ʏ ʁ d ə,h a r z
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,10,jetzt,4.440,4.770,0.330,j ɛ ts t,j ɛ ts t,ʃ u t i s
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,11,keinen,4.770,5.090,0.320,k aɪ n ə n,kʰ aj n n̩,k n
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,12,fisch,5.090,5.480,0.390,f ɪ ʃ,f ɪ ʃ,s ɪ ʃ
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,13,zubereiten,5.540,6.180,0.640,ts uː b ə r aɪ t ə n,ts uː b ə ʁ aj tʰ n̩,ʔ aː m
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,14,weil,6.380,7.240,0.860,v aɪ l,v aj l,i̪5 w u5 ts.h u5 p aɪ t ə n m ai5 j ə1
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,15,das,7.240,7.420,0.180,d a s,d aː s,d a s
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,16,esse,7.420,7.610,0.190, ɛ s ə,ɛ s ə,
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,17,ich,7.610,7.670,0.060, ɪ ç,ɪ ç,
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,18,nicht,7.670,7.850,0.180,n ɪ ç t,n ɪ ç t,s
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,19,aber,8.070,8.450,0.380, ɑː b ɜ,a b ɐ,a b a
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,20,ich,8.840,8.900,0.060, ɪ ç,ɪ ç,
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,21,probiere,8.900,9.410,0.510,p ɾ oː b iː r ə,p ʁ ɔ b iː ʁ ə,r a
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,22,alles,10.600,10.990,0.390, a l ə s,a l ə s,a l ə s
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,23,gerne,11.090,11.290,0.200,ɡ ɛ ɾ n ə,ɟ ɛ ɐ n ə,d a
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,24,mal,11.290,11.410,0.120,m ɑː l,m a,m a
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,25,aus,11.410,11.660,0.250, aʊ s,aw s,s
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,26,wenn,11.690,12.050,0.360,v ɛ n,v ɛ n,a n
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,27,ein,12.630,12.740,0.110, aɪ n,aj n,
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,28,tolles,12.740,13.020,0.280,t ɔ l ə s,tʰ ɔ l ə s,t a l s
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,29,rezept,13.020,13.330,0.310,r eː ts ɛ p t,ʁ ɛ ts ɛ p t,u s e
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,30,da,13.330,13.470,0.140,d ɑː,d aː,
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,31,ist,13.470,13.670,0.200, ɪ s t,ɪ s,s.
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,32,oder,13.670,13.910,0.240, oː d ɜ,oː d ɐ,iɑ5 t ei5
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,33,ich,13.910,14.110,0.200, ɪ ç,ɪ ç,ɕ ei5
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,34,irgendwelche,14.110,14.450,0.340, ɪ ɾ ɡ ə n d v ɛ l ç ə,ɪ ɡ n̩ t v ɛ l ç ə,ɪ ŋ b ɛ s i
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,35,zutaten,14.450,14.840,0.390,ts uː t ɑː t ə n,ts uː tʰ aː tʰ ə n,s uː t ɑ n a
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,36,habe,14.840,14.960,0.120,h ɑː b ə,h aː b ə,
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,37,wo,14.960,15.020,0.060,v oː,v oː,
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,38,ich,15.020,15.140,0.120, ɪ ç,ɪ ç,s
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,39,denke,15.140,15.760,0.620,d ɛ ŋ k ə,d ɛ ŋ kʰ ə,d ə k a a
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,40,das,15.790,15.970,0.180,d a s,d aː s,a s
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,41,mache,15.970,16.140,0.170,m a x ə,m a x ə,m a r
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,42,ich,16.140,16.240,0.100, ɪ ç,ɪ ç,t
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,43,jetzt,16.240,16.500,0.260,j ɛ ts t,j ɛ ts t,e ts
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,44,mache,16.810,17.110,0.300,m a x ə,m a x ə,b a
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,45,ich,17.140,17.250,0.110, ɪ ç,ɪ ç,
+71259,C:\PY\pronuncise_research\mfa_corpus_german\71259.wav,46,das,17.250,17.690,0.440,d a s,d aː s,t a s
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,0,die,1.620,1.690,0.070,d iː,d iː,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,1,frage,1.690,1.910,0.220,f r ɑː ɡ ə,f ʁ aː ɡ ə,f ɑ d
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,2,ist,1.910,2.000,0.090, ɪ s t,ɪ s,s
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,3,seltsam,2.000,2.710,0.710,z ɛ l t z ɑː m,z ɛ l t z aː m,ɛ l ts a m
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,4,die,2.710,3.190,0.480,d iː,d ɪ,t j
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,5,arbeit,3.390,4.150,0.760, a ɾ b aɪ t,a ʁ b aj t,h a b aɪ t
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,6,in,4.230,4.430,0.200, ɪ n,ɪ n,i n
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,7,der,4.430,4.670,0.240,d ɛ ɾ,d eː ʁ,d a
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,8,digitalen,4.670,5.320,0.650,d iː ɡ iː t ɑː l ə n,d ɪ ɟ ɪ tʰ aː l n̩,d ə ɡ iː t a n
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,9,welt,5.320,5.610,0.290,v ɛ l t,v ɛ l t,a l e
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,10,ist,5.960,6.550,0.590, ɪ s t,ɪ s,e s
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,11,könnte,7.960,8.260,0.300,k œ n t ə,cʰ œ n tʰ ə,k ʌ n t
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,12,gemeint,8.260,8.660,0.400,ɡ ə m aɪ n t,ɡ ə m aj n t,ɡ ə m aɪ n t
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,13,sein,8.660,9.140,0.480,z aɪ n,z aj n,s aɪ n
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,14,wie,9.450,9.690,0.240,v iː,v iː,v i
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,15,sehe,9.690,10.150,0.460,z eː ə,z eː ə,ts i5
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,16,ich,10.150,10.550,0.400, ɪ ç,ɪ ç,e
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,17,die,10.680,11.200,0.520,d iː,d ɪ,e m t i
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,18,zukunft,11.230,11.820,0.590,ts uː k ʊ n f t,ts uː kʰ ʊ m f t,uː k ʊ m s t
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,19,der,11.820,12.160,0.340,d ɛ ɾ,d eː ʁ,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,20,menschen,12.660,13.400,0.740,m ɛ n ʃ ə n,m ɛ n ʃ ə n,m ɛ n ʃ ə
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,21,die,13.400,13.630,0.230,d iː,d iː,t i5
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,22,arbeiten,13.630,14.170,0.540, a ɾ b aɪ t ə n,a b aj tʰ n̩,aː b n
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,23,oder,14.170,14.440,0.270, oː d ɜ,oː d ɐ,t ai5
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,24,ob,14.870,15.090,0.220, ɔ p,ɔ p,ɑ
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,25,menschen,15.090,15.440,0.350,m ɛ n ʃ ə n,m ɛ n ʃ ə n,m ɛ n tʃ ə n
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,26,noch,15.440,15.610,0.170,n ɔ x,n ɔ x,f
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,27,arbeit,15.610,15.910,0.300, a ɾ b aɪ t,a b aj t,a b ɛ
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,28,finden,15.910,16.270,0.360,f ɪ n d ə n,f ɪ n d n̩,s ɪ n
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,29,in,16.270,16.430,0.160, ɪ n,ɪ n,i
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,30,der,16.430,16.540,0.110,d ɛ ɾ,d eː ʁ,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,31,digitalen,16.540,17.080,0.540,d iː ɡ iː t ɑː l ə n,d ɪ ɟ ɪ tʰ aː l n̩,d iː ɡ iː t ɜ aɪ l ə n
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,32,welt,17.080,17.340,0.260,v ɛ l t,v ɛ l t,aː d
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,33,oder,17.340,17.630,0.290, oː d ɜ,oː d ɐ,u d a
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,34,ob,17.970,18.130,0.160, ɔ p,ɔ p,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,35,ich,18.130,18.210,0.080, ɪ ç,ɪ ç,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,36,das,18.210,18.380,0.170,d a s,d aː s,t a
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,37,so,18.380,18.480,0.100,z oː,z oː,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,38,sehe,18.480,18.920,0.440,z eː ə,z eː ə,z i
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,39,aber,19.530,19.750,0.220, ɑː b ɜ,a b ɐ,a b a
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,40,man,19.750,19.900,0.150,m a n,m a n,b a
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,41,könnte,19.900,20.240,0.340,k œ n t ə,cʰ œ n tʰ ə,kh əɜ n t ɑu5
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,42,auch,20.240,20.490,0.250, aʊ x,aw x,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,43,denken,20.520,21.280,0.760,d ɛ ŋ k ə n,d ɛ ŋ kʰ ə n,d aɪ n k ə t ə
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,44,ob,21.680,22.120,0.440, ɔ p,oː b eː,m aː ɹ
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,45,die,22.150,22.570,0.420,d iː,d ɪ,l
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,46,frage,23.220,23.450,0.230,f r ɑː ɡ ə,f ʁ aː ɡ ə,a
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,47,so,23.790,23.870,0.080,z oː,z oː,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,48,gemeint,23.870,24.220,0.350,ɡ ə m aɪ n t,ɡ ə m aj n t,t
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,49,ist,24.220,24.390,0.170, ɪ s t,ɪ s t,i f
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,50,als,24.390,24.660,0.270, a l s,a l s,a ɡ iː z
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,51,ob,24.660,24.740,0.080, ɔ p,ɔ p,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,52,ich,24.740,24.780,0.040, ɪ ç,ɪ ç,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,53,mir,24.780,24.910,0.130,m iː ɾ,m ə,m
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,54,eine,24.910,25.110,0.200, aɪ n ə,aj n ə,d
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,55,zukunft,25.110,25.460,0.350,ts uː k ʊ n f t,ts uː kʰ ʊ n f t,s a d
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,56,in,25.460,25.640,0.180, ɪ n,ɪ n,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,57,der,25.980,26.090,0.110,d ɛ ɾ,d eː ʁ,a
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,58,digitalen,26.090,26.560,0.470,d iː ɡ iː t ɑː l ə n,d ɪ ɟ ɪ tʰ aː l n̩,ts ɑu5 w n
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,59,welt,26.560,27.820,1.260,v ɛ l t,v ɛ l t,a b i ʃ m iː a a n
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,60,zu,28.200,28.520,0.320,ts uː,ts uː,tsh u5
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,61,arbeiten,28.570,28.800,0.230, a ɾ b aɪ t ə n,a b aj tʰ n̩,u
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,62,vorstellen,29.750,30.130,0.380,f oː ɾ ʃ t ɛ l ə n,f oː ɐ ʃ t ɛ l n̩,n
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,63,könnte,30.130,30.920,0.790,k œ n t ə,cʰ œ n tʰ ə,d ɛ d iː ɡ iː t a n v ɛ l
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,64,beides,31.020,31.510,0.490,b aɪ d ə s,b aj d ə s,ɑ5 p ai5
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,65,schwer,31.510,31.680,0.170,ʃ v eː ɾ,ʃ v eː ɐ,onɡ5
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,66,zu,31.680,31.780,0.100,ts uː,ts uː,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,67,beantworten,31.780,32.440,0.660,b ə a n t v ɔ ɾ t ə n,b ə a n t v ɔ ʁ tʰ ə n,t ai5 n ph əɜ n t ə1
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,68,ja,33.040,33.230,0.190,j ɑː,j aː,a
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,69,natürlich,33.230,33.600,0.370,n ɑː t yː ɾ l ɪ ç,n a tʰ yː l ɪ ç,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,70,könnte,34.760,35.200,0.440,k œ n t ə,cʰ œ n tʰ ə,aɪ ɾ ɪ s
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,71,ich,35.200,35.360,0.160, ɪ ç,ɪ ç,s
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,72,mir,35.360,35.420,0.060,m iː ɾ,m ə,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,73,eine,35.420,35.510,0.090, aɪ n ə,aj n ə,s
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,74,arbeit,35.570,35.910,0.340, a ɾ b aɪ t,a b aj t,v a n t
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,75,in,35.910,36.220,0.310, ɪ n,ɪ n,a t ə n d iː
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,76,der,36.470,37.150,0.680,d ɛ ɾ,d eː ʁ,tɕ ɑu5
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,77,digitalen,37.240,38.050,0.810,d iː ɡ iː t ɑː l ə n,d ɪ ɟ ɪ tʰ aː l n̩,ɛ v ə j a a
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,78,welt,38.510,38.840,0.330,v ɛ l t,v ɛ l t,n a t o ʃ k
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,79,vorstellen,38.840,39.200,0.360,f oː ɾ ʃ t ɛ l ə n,f oː ɐ ʃ t ɛ l n̩,ə5 n ɕ m ɪ
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,80,und,39.200,39.260,0.060, ʊ n t,ʊ n,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,81,auch,39.260,39.420,0.160, aʊ x,aw x,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,82,ja,39.420,39.480,0.060,j ɑː,j aː,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,83,es,39.480,39.800,0.320, ɛ s,ɛ s,d i n ħ
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,84,wird,39.800,41.080,1.280,v ɪ ɾ t,v ɪ ɐ t,ɪ k iː t a n b ə l ə k v ɔ s t ɛ
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,85,weiterhin,41.450,42.160,0.710,v aɪ t ɜ h ɪ n,v aj tʰ ɐ ç ɪ n,oː d ə n t aʊ x j a
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,86,arbeit,42.160,42.530,0.370, a ɾ b aɪ t,a ʁ b aj t,ɑ
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,87,geben,42.730,43.160,0.430,ɡ eː b ə n,ɟ eː b ə n,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,88,die,43.500,43.890,0.390,d iː,d iː,a s f i
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,89,von,43.890,44.060,0.170,f ɔ n,f ɔ n,s p a
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,90,menschen,44.060,44.630,0.570,m ɛ n ʃ ə n,m ɛ n ʃ ə n,d a h i n ʔ a b a
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,91,sowie,44.750,45.710,0.960,z oː v iː,z oː v ɪ,eː p ə d iː
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,92,aber,46.400,46.490,0.090, ɑː b ɜ,a b ɐ,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,93,auch,46.490,46.520,0.030, aʊ x,aw,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,94,wahrscheinlich,46.520,49.050,2.530,v ɑː ɾ ʃ aɪ n l ɪ ç,v aː ɐ ʃ aj n l ɪ ç,f ɔ l m ɛ n ʃ ə n z oː v iː a b ɜ ɔ x ə b a ʃ a n
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,95,vieles,49.050,49.620,0.570,f iː l ə s,f iː l ə s,f iː l əɜ n s
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,96,von,49.620,49.970,0.350,f ɔ n,f ɔ n,f a n
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,97,digitalen,50.050,50.820,0.770,d iː ɡ iː t ɑː l ə n,d ɪ ɟ ɪ tʰ aː l ə n,a b l ɪ k i t ɑː l ə n
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,98,mitbewohnern,52.810,53.470,0.660,m ɪ t b ə v oː n ɜ n,m ɪ t b ə v oː n ɐ n,m ɪ t b oː v oː n h
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,99,der,53.470,53.640,0.170,d ɛ ɾ,d eː ʁ,t
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,100,welt,53.640,53.900,0.260,v ɛ l t,v ɛ l t,v ɛ l t
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,101,übernommen,54.200,54.650,0.450, yː b ɜ n ɔ m ə n,yː b ɐ n ɔ m n̩,iː v ɛ n a m
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,102,werden,54.650,54.900,0.250,v ɛ ɾ d ə n,v eː ɐ d n̩,ɛ n
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,103,also,55.300,55.460,0.160, a l z oː,a l z oː,a
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,104,die,55.460,55.540,0.080,d iː,d iː,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,105,frage,55.540,56.140,0.600,f r ɑː ɡ ə,f ʁ aː ɡ ə,a ʔ a m
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,106,ist,57.590,57.900,0.310, ɪ s t,ɪ s t,t i5
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,107,schwierig,57.900,58.130,0.230,ʃ v iː r ɪ ç,ʃ v iː ʁ ɪ ç,j a
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,108,sehr,58.130,58.250,0.120,z eː ɾ,z eː ɐ,i
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,109,schwierig,58.250,58.750,0.500,ʃ v iː r ɪ ç,ʃ v iː ʁ ɪ ç,a ɡ e s
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,110,und,58.750,58.810,0.060, ʊ n t,ʊ n,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,111,sehr,58.810,58.970,0.160,z eː ɾ,z eː ɐ,
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,112,schwammig,58.970,60.850,1.880,ʃ v a m ɪ ç,ʃ v a m ɪ k,ç ts ɛ ʃ v iː r ə ç oː ə n z ɛ
+71261,C:\PY\pronuncise_research\mfa_corpus_german\71261.wav,113,formuliert,62.380,62.790,0.410,f ɔ ɾ m uː l iː ɾ t,f ɔ m ʊ l iː ɐ t,l a m i ʃ
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,0,das,1.920,2.160,0.240,d a s,d aː s,a n
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,1,ist,2.160,2.220,0.060, ɪ s t,ɪ s,
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,2,auch,2.220,2.260,0.040, aʊ x,aw x,
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,3,nicht,2.260,2.630,0.370,n ɪ ç t,n ɪ ç t,l iɜ ŋ
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,4,ganz,2.880,3.090,0.210,ɡ a n ts,ɡ a n ts,d e s
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,5,einfach,3.210,3.340,0.130, aɪ n f a x,aj n f a x,s
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,6,für,3.340,3.580,0.240,f yː ɾ,f yː ʁ,s a w
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,7,mich,3.580,3.990,0.410,m ɪ ç,m ɪ ç,n eɪ
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,8,zu,4.080,4.150,0.070,ts uː,ts uː,
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,9,beantworten,4.210,5.820,1.610,b ə a n t v ɔ ɾ t ə n,b ə a n t v ɔ ʁ tʰ n̩,ɡ a n s aɪ m f ə ɾ f yː m ɪ ç ts uː b ɜ a n f ɔ ɾ t ə n
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,10,denn,6.220,6.400,0.180,d ɛ n,d ɛ n,n
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,11,die,6.400,6.610,0.210,d iː,d iː,tɕ i5
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,12,politische,6.610,7.310,0.700,p oː l iː t ɪ ʃ ə,pʰ ɔ l ɪ tʰ ɪ ʃ ə,p uo5 l iː t i ɕ i.5
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,13,beteiligung,7.310,8.210,0.900,b ə t aɪ l ɪ ɡ ʊ ŋ,b ə tʰ aj l ɪ ɡ ʊ ŋ,b ə t aɪ d iː ɡ oː m ə n
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,14,geistig,8.210,8.840,0.630,ɡ aɪ s t ɪ ç,ɡ aj s t ɪ ç,ɡ aɪ iː s t iː ʃ
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,15,auf,8.840,8.970,0.130, aʊ f,aw f,a f
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,16,jeden,8.970,9.220,0.250,j eː d ə n,j eː d ə n,i5 n
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,17,fall,9.220,9.600,0.380,f a l,f a l,f ai5
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,18,sollte,10.070,11.010,0.940,z ɔ l t ə,z ɔ l tʰ ə,z ɔ l t ə
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,19,sehr,11.010,11.500,0.490,z eː ɾ,z eː ɐ,z e j a f
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,20,wichtig,11.500,12.020,0.520,v ɪ ç t ɪ ç,v ɪ ç tʰ ɪ ç,v ɪ ç t iː s
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,21,sein,12.020,12.200,0.180,z aɪ n,z aj n,n
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,22,für,12.200,12.330,0.130,f yː ɾ,f ə,s. i5
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,23,jeden,12.330,12.810,0.480,j eː d ə n,j eː d ə n,j eː d ə
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,24,die,13.460,13.580,0.120,d iː,d iː,
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,25,politische,13.580,14.200,0.620,p oː l iː t ɪ ʃ ə,pʰ ɔ l ɪ tʰ ɪ ʃ ə,p oʊ l i t i ʃ uː
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,26,beteiligung,14.200,15.740,1.540,b ə t aɪ l ɪ ɡ ʊ ŋ,b ə tʰ aj l ɪ ɡ ʊ ŋ,b ə t aɪ d iː ɡ ɔ ŋ n a
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,27,sich,15.800,16.300,0.500,z ɪ ç,z ɪ ç,z i
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,28,in,16.350,16.790,0.440, ɪ n,ɪ n,iː n
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,29,verschiedenen,17.860,18.760,0.900,f ɛ ɾ ʃ iː d ə n ə n,f ɛ ɐ ʃ iː d ə n n̩,b h l
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,30,vereinen,18.760,19.020,0.260,f ɛ ɾ aɪ n ə n,f ɛ ɐ aj n ə n,f ai5 t
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,31,parteien,19.020,19.250,0.230,p a ɾ t aɪ ə n,pʰ a ʁ tʰ aj n̩,m ʌ sʲ
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,32,solchen,19.390,20.400,1.010,z oː l ç ə n,z ɔ l ç ə n,ɔ ʃ iː d n ə n
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,33,gruppierungen,20.550,21.200,0.650,ɡ ɾ ʊ p iː r ʊ ŋ ə n,ɡ ʁ ʊ pʰ iː ʁ ʊ ŋ ə n,f aɪ n
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,34,irgendwie,21.200,21.830,0.630, ɪ ɾ ɡ ə n d v iː,ɪ ɐ ɡ n̩ d v iː,h aː m
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,35,anzuschließen,21.830,22.770,0.940, a n ts uː ʃ l iː s ə n,spn,s ə p a t aɪ iː n
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,36,und,22.770,22.860,0.090, ʊ n t,ʊ n t,
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,37,ja,22.860,23.160,0.300,j ɑː,j aː,
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,38,das,24.070,24.160,0.090,d a s,d aː s,
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,39,wirkt,24.160,25.150,0.990,v ɪ ɾ k t,v ɪ k t,a m ə z a ʃ n k ə ʁ o p i
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,40,für,25.150,25.230,0.080,f yː ɾ,f ə,
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,41,mich,25.230,26.000,0.770,m ɪ ç,m ɪ ç,onɡ5 æ ŋ f j a
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,42,alles,26.000,26.130,0.130, a l ə s,a l ə s,a5
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,43,sehr,26.130,26.230,0.100,z eː ɾ,z eː ɐ,
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,44,schnell,26.230,26.510,0.280,ʃ n ɛ l,ʃ n ɛ l,s t iː
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,45,sehr,26.510,26.660,0.150,z eː ɾ,z eː ɐ,ɕ i5
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,46,dogmatisch,26.660,27.120,0.460,d ɔ ɡ m ɑː t ɪ ʃ,d ɔ ɡ m aː tʰ ɪ ʃ,n t a
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,47,und,27.120,27.490,0.370, ʊ n t,ʊ n,m
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,48,ist,29.110,29.300,0.190, ɪ s t,ɪ s t,
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,49,dann,29.300,29.760,0.460,d a n,d a n,aː t a
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,50,nicht,29.830,30.050,0.220,n ɪ ç t,n ɪ ç t,i s
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,51,mehr,30.050,30.290,0.240,m eː ɾ,m eː ɐ,m i
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,52,das,30.290,30.580,0.290,d a s,d aː s,m b i s
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,53,was,30.580,31.030,0.450,v a s,v a s,i n a z
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,54,eigentlich,31.030,31.720,0.690, aɪ ɡ ə n t l ɪ ç,aj ɡ n̩ t l ɪ ç,h b l a
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,55,die,31.750,32.090,0.340,d iː,d iː,b
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,56,geistige,32.090,32.990,0.900,ɡ aɪ s t ɪ ɡ ə,ɡ aj s t ɪ ɡ ə,k t u m iː ʔ a l i s iː ʃ
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,57,beteiligung,33.020,33.560,0.540,b ə t aɪ l ɪ ɡ ʊ ŋ,b ə tʰ aj l ɪ ɡ ʊ ŋ,n e l z e d o
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,58,im,33.560,33.620,0.060, ɪ m,ɪ m,
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,59,politischen,33.620,34.410,0.790,p oː l iː t ɪ ʃ ə n,pʰ ɔ l ɪ tʰ ɪ ʃ ə n,m a t ɪ ʃ ʊ n
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,60,diskurs,34.410,34.940,0.530,d ɪ s k uː ɾ s,d ɪ s k ʊ ɐ s,t a m
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,61,schaffen,35.770,36.380,0.610,ʃ a f ə n,ʃ a f ə n,i s t a n
+71263,C:\PY\pronuncise_research\mfa_corpus_german\71263.wav,62,würde,36.380,38.940,2.560,v ʏ ɾ d ə,v ʏ d ə,n ɪ ç m ɛ d a s v a s aɪ ŋ ɡ l ɪ ç d iː
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,0,das,2.220,2.450,0.230,d a s,d aː s,t a s
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,1,ist,2.450,2.640,0.190, ɪ s t,ɪ s t,s
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,2,natürlich,2.640,3.070,0.430,n ɑː t yː ɾ l ɪ ç,n a tʰ yː l ɪ ç,n a t uː ʃ a
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,3,auch,3.070,4.000,0.930, aʊ x,aw x,aʊ f
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,4,eine,4.000,4.100,0.100, aɪ n ə,aj n ə,
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,5,sache,4.100,4.430,0.330,z a x ə,z a x ə,z aː x i
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,6,die,4.430,4.870,0.440,d iː,d ɪ,t i5 j y5
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,7,nicht,5.110,5.670,0.560,n ɪ ç t,n ɪ ç,n i
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,8,immer,5.710,6.330,0.620, ɪ m ɜ,ɪ m ɐ,i m aː
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,9,nach,6.920,7.040,0.120,n ɑː x,n a x,n a
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,10,dem,7.040,7.150,0.110,d eː m,d ə m,
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,11,gleichen,7.150,7.420,0.270,ɡ l aɪ ç ə n,ɡ l aj ç ə n,l a ɕ iː
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,12,muster,7.420,7.790,0.370,m ʊ s t ɜ,m ʊ s t ɐ,m uː s t a
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,13,abläuft,7.790,8.280,0.490, a p l ɔø f t,a p l ɔʏ f t,a b n oː s t
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,14,oft,10.700,11.130,0.430, ɔ f t,ɔ f t,aʊ f t
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,15,bleibt,11.130,11.430,0.300,b l aɪ p t,b l aj p t,b l ʌ
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,16,man,11.430,11.630,0.200,m a n,m a n,m a n
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,17,natürlich,11.630,12.020,0.390,n ɑː t yː ɾ l ɪ ç,n a tʰ yː l ɪ ç,n a t y ʃ
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,18,nicht,12.020,12.220,0.200,n ɪ ç t,n ɪ ç,n i s
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,19,motiviert,12.220,12.740,0.520,m oː t iː v iː ɾ t,m ɔ tʰ ɪ v iː ɐ t,m oː t iː v eː ɾ t
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,20,aber,12.740,13.330,0.590, ɑː b ɜ,a b ɐ,a b a
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,21,wenn,13.330,13.800,0.470,v ɛ n,v ɛ n,ʌ n
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,22,das,13.800,14.370,0.570,d a s,d aː s,d a s
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,23,ziel,15.340,16.070,0.730,ts iː l,ts iː l,tsh i5 j y5
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,24,auf,16.100,16.320,0.220, aʊ f,aw f,a
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,25,das,16.320,16.520,0.200,d a s,d aː s,t a s
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,26,man,16.520,16.850,0.330,m a n,m a n,m a n h i n
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,27,hinarbeitet,16.850,17.520,0.670,h iː n a ɾ b aɪ t ə t,spn,a b aɪ d ə t
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,28,einen,17.520,17.940,0.420, aɪ n ə n,aj n n̩,aɪ n
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,29,gewissen,17.940,18.610,0.670,ɡ ə v ɪ s ə n,ɡ ə v ɪ s ə n,ɡ ɪ b ɪ s t ə n
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,30,stellenwert,19.330,20.030,0.700,ʃ t ɛ l ə n v eː ɾ t,ʃ t ɛ l n̩ v eː ɐ t,ʃ t eː n v ɛ t
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,31,hat,20.030,20.280,0.250,h a t,h a t,a t
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,32,würde,20.280,20.700,0.420,v ʏ ɾ d ə,v ʏ ʁ d ə,z a d
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,33,man,20.700,21.270,0.570,m a n,m a n,m a n
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,34,denke,21.340,21.560,0.220,d ɛ ŋ k ə,d ɛ ŋ kʰ ə,iɛ5 n k
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,35,ich,21.560,21.690,0.130, ɪ ç,ɪ ç,s
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,36,mal,21.690,22.090,0.400,m ɑː l,m aː l,m aː
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,37,auch,22.870,23.180,0.310, aʊ x,aw x,a
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,38,bei,23.180,23.680,0.500,b aɪ,b aj,p ai5
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,39,rückwürfen,23.710,24.270,0.560,r ʏ k v ʏ ɾ f ə n,spn,y t y a s n
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,40,hindernissen,24.270,25.020,0.750,h ɪ n d ɜ n ɪ s ə n,ç ɪ n d ɐ n ɪ s ə n,h ɪ n d a l ɪ s n ə
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,41,und,25.020,25.380,0.360, ʊ n t,ʊ n t,ɑ n d
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,42,mauern,25.380,25.950,0.570,m aʊ ɜ n,m aw ɐ n,m a w aː n
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,43,weiter,26.070,26.270,0.200,v aɪ t ɜ,v aj tʰ ɐ,a
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,44,motiviert,26.820,27.530,0.710,m oː t iː v iː ɾ t,m ɔ tʰ ɪ v iː ɐ t,v aɪ t a m u t i v iː l
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,45,bleiben,27.530,28.010,0.480,b l aɪ b ə n,b l aj b n̩,l aɪ b ə n
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,46,zweifeln,29.790,30.280,0.490,ts v aɪ f ə l n,ts v aj f ə l n,v aɪ f ə n
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,47,gehört,30.280,30.570,0.290,ɡ ə h œ ɾ t,ɡ ə h øː ɐ t,a d
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,48,dazu,30.570,30.960,0.390,d ɑː ts uː,d a ts uː,a s u
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,49,aber,30.960,31.310,0.350, ɑː b ɜ,a b ɐ,a b aː
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,50,ich,31.340,31.540,0.200, ɪ ç,ɪ ç,ʃ
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,51,gehe,31.610,31.830,0.220,ɡ eː ə,ɟ eː ə,t i5
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,52,davon,31.830,32.180,0.350,d ɑː f ɔ n,d a f ɔ n,d a f ə n
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,53,aus,32.180,32.410,0.230, aʊ s,aw s,aː s
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,54,dass,32.410,32.620,0.210,d a s,d a s,s
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,55,die,32.620,32.770,0.150,d iː,d iː,i5
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,56,motivation,32.770,33.490,0.720,m oː t iː v a ts j oː n,m ɔ tʰ ɪ v a t s j oː n,m uː d i v a ts iː ʊ n
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,57,am,33.490,33.640,0.150, a m,a m,a m
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,58,ende,33.640,34.340,0.700, ɛ n d ə,ɛ n d ə,a n d ʉ
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,59,für,34.370,34.620,0.250,f yː ɾ,f ə,s. i.5
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,60,dieses,34.620,35.010,0.390,d iː z ə s,d iː z ə s,t iː z i s
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,61,ziel,35.010,35.490,0.480,ts iː l,ts iː l,tsh i5 ei5 n
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,62,ja,37.140,37.430,0.290,j ɑː,j aː,a
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,63,muss,37.430,37.990,0.560,m ʊ s,m ʊ s,n a s u5
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,64,ich,38.080,38.260,0.180, ɪ ç,ɪ ç,m
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,65,für,38.260,38.320,0.060,f yː ɾ,f ə,
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,66,die,38.320,38.570,0.250,d iː,d iː,m u s i
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,67,person,38.570,39.170,0.600,p ɛ ɾ z oː n,pʰ ɛ ɐ z oː n,f y l i p ɛ z u n
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,68,halt,39.170,39.330,0.160,h a l t,h a l t,a t
+71264,C:\PY\pronuncise_research\mfa_corpus_german\71264.wav,69,rechnen,39.330,39.850,0.520,r ɛ ç n ə n,ʁ ɛ ç n ə n,ʃ n a n m
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,0,das,1.670,1.850,0.180,d a s,d aː s,t a z
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,1,ist,1.850,2.060,0.210, ɪ s t,ɪ s,a
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,2,einfach,2.060,2.810,0.750, aɪ n f a x,aj n f a x,aɪ n t f ɔ x
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,3,ich,3.220,3.370,0.150, ɪ ç,ɪ ç,ʃ
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,4,würde,3.370,4.020,0.650,v ʏ ɾ d ə,v ʏ ʁ d ə,i.5 t əɜ
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,5,bis,4.240,4.590,0.350,b ɪ s,b ɪ s,b i s
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,6,auf,4.590,4.750,0.160, aʊ f,aw f,a
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,7,den,4.750,4.900,0.150,d eː n,d ɛ n,t
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,8,letzten,4.900,5.290,0.390,l ɛ ts t ə n,l ɛ ts t n̩,l e t s y
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,9,cent,5.290,5.640,0.350,s ɛ n t,ts ɛ n t,s ɛ n
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,10,schauen,5.640,6.120,0.480,ʃ aʊ ə n,ʃ aw n̩,ʃ ɑ n
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,11,dass,6.540,6.940,0.400,d a s,d a s,d a s
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,12,es,6.940,7.140,0.200, ɛ s,ə s,s
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,13,mir,7.140,7.490,0.350,m iː ɾ,m iː ɐ,m i5
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,14,und,7.490,7.670,0.180, ʊ n t,ʊ n t,a
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,15,meinem,7.670,7.980,0.310,m aɪ n ə m,m aj n ə m,m aɪ
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,16,nahen,7.980,8.280,0.300,n ɑː ə n,n aː ə n,n a
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,17,umfeld,8.280,9.060,0.780, ʊ m f ɛ l t,ʊ m f ɛ l t,ʊ n f ɛ l t
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,18,finanziell,9.090,9.670,0.580,f iː n a n ts j ɛ l,f ɪ n a n ts j ɛ l,a f n a
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,19,damit,10.610,11.260,0.650,d ɑː m ɪ t,d aː m ɪ t,d ɑ m i t
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,20,weiterhilft,11.870,12.330,0.460,v aɪ t ɜ h ɪ l f t,spn,aː n
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,21,absicherung,12.920,13.320,0.400, a p z ɪ ç ə r ʊ ŋ,a p z ɪ ç ə ʁ ʊ ŋ,v aɪ t ə
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,22,vielleicht,13.450,13.900,0.450,f ɪ l aɪ ç t,f ɪ l aj ç t,h eː s t
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,23,einfach,14.890,15.060,0.170, aɪ n f a x,aj n f a x,a
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,24,mal,15.060,15.230,0.170,m ɑː l,m aː l,
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,25,ein,15.280,15.360,0.080, aɪ n,n̩,
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,26,paar,15.920,16.120,0.200,p ɑː ɾ,pʰ aː ɐ,a
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,27,neue,16.170,16.260,0.090,n ɔø ə,n ɔʏ ə,
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,28,sachen,16.260,16.450,0.190,z a x ə n,z a x ə n,ɕ əɜ
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,29,kaufen,16.450,17.140,0.690,k aʊ f ə n,kʰ aw f n̩,h u m b a
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,30,vielleicht,17.170,17.420,0.250,f ɪ l aɪ ç t,f ɪ l aj ç t,u l a s t
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,31,was,17.420,18.260,0.840,v a s,v a s,ɛ m dʒ ɔ t m a p a n oɪ z
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,32,zur,18.260,18.690,0.430,ts uː ɾ,ts uː ɐ,a n k aʊ
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,33,seite,18.690,18.890,0.200,z aɪ t ə,z aj tʰ ə,əɜ
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,34,legen,19.930,20.440,0.510,l eː ɡ ə n,l eː ɡ ə n,a m
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,35,wie,20.840,20.980,0.140,v iː,v iː,
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,36,auch,20.980,21.020,0.040, aʊ x,aw x,
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,37,immer,21.020,21.130,0.110, ɪ m ɜ,ɪ m ɐ,d
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,38,aber,21.130,21.240,0.110, ɑː b ɜ,a b ɐ,a s
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,39,ich,21.240,21.410,0.170, ɪ ç,ɪ ç,a s
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,40,würde,21.410,22.790,1.380,v ʏ ɾ d ə,v ʏ ʁ d ə,ʊ z aɪ l t ə l eː ɡ ə n v iː r ə n ɜ b ɛ
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,41,das,22.790,22.980,0.190,d a s,d aː s,s
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,42,mit,22.980,23.410,0.430,m ɪ t,m ɪ t,e d i d a s
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,43,meinen,23.410,23.930,0.520,m aɪ n ə n,m aj n n̩,w aɪ
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,44,lieben,24.700,25.540,0.840,l iː b ə n,l iː b ə n,m ɪ t m aɪ n d iː b ə n
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,45,und,25.870,26.060,0.190, ʊ n t,ʊ n t,ʔ a l
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,46,mit,26.060,26.230,0.170,m ɪ t,m ɪ t,
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,47,meinen,26.230,26.450,0.220,m aɪ n ə n,m aj n n̩,a
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,48,nächsten,26.450,26.870,0.420,n ɛ ç s t ə n,n eː k s t n̩,eɪ s ə
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,49,leuten,26.870,27.380,0.510,l ɔø t ə n,l ɔʏ tʰ n̩,oː t i
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,50,aufteilen,28.230,28.980,0.750, aʊ f t aɪ l ə n,aw f tʰ aj l ə n,ɑː v t aɪ m
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,51,wahrscheinlich,31.050,31.640,0.590,v ɑː ɾ ʃ aɪ n l ɪ ç,v aː ɐ ʃ aj n l ɪ ç,v a ʃ a n i
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,52,so,31.640,31.800,0.160,z oː,z oː,əɜ
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,53,sehr,31.800,32.000,0.200,z eː ɾ,z eː ɐ,s əɜ
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,54,dass,32.000,32.200,0.200,d a s,d a s,t ə1 s
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,55,ich,32.200,32.330,0.130, ɪ ç,ɪ ç,s
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,56,hochgerechnet,32.330,33.280,0.950,h oː x ɡ ə r ɛ ç n ə t,spn,eɪ s z uː f ə
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,57,weniger,33.920,34.850,0.930,v eː n ɪ ɡ ɜ,v eː n ɪ ɡ ɐ,a m h u
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,58,kriegen,34.850,35.830,0.980,k ɾ iː ɡ ə n,k ʁ ɪ ə ɡ ə n,ɡ r ɛ ʃ t n ə d v eː n iː ɡ a k ɾ ɪ ŋ
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,59,würde,35.830,36.060,0.230,v ʏ ɾ d ə,v ʏ ʁ d ə,b y d a
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,60,aber,36.060,36.380,0.320, ɑː b ɜ,a b ɐ,ɑu5 t əɜ
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,61,ich,36.380,36.710,0.330, ɪ ç,ɪ ç,ɕ
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,62,verrate,37.450,37.900,0.450,f ɛ ɾ r ɑː t ə,f ɛ ʁ aː tʰ ə,f ɑ n a d
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,63,manchmal,37.900,38.390,0.490,m a n ç m ɑː l,m a ɲ ç m aː l,m a tʃ a m h
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,64,eine,38.420,38.640,0.220, aɪ n ə,aj n ə,a d
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,65,million,38.640,39.060,0.420,m ɪ l j oː n,m ɪ l j oː n,m a l iː h u n
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,66,euro,39.060,39.450,0.390, ɔø r oː,ɔʏ ʁ ɔ,a l f a
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,67,also,39.750,40.040,0.290, a l z oː,a l z oː,a z
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,68,als,40.040,40.430,0.390, a l s,a l s,a s
+71269,C:\PY\pronuncise_research\mfa_corpus_german\71269.wav,69,normalsterbliche,41.350,41.860,0.510,n ɔ ɾ m a l s t ɜ p l ɪ ç ə,spn,p a m aː ʃ t i
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,0,ich,1.840,2.020,0.180, ɪ ç,ɪ ç,s
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,1,würde,2.020,2.180,0.160,v ʏ ɾ d ə,v ʏ ʁ d ə,t
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,2,in,2.180,2.280,0.100, ɪ n,ɪ n,
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,3,alle,2.280,2.590,0.310, a l ə,a l ə,a l i
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,4,zeiten,2.590,3.030,0.440,ts aɪ t ə n,ts aj tʰ n̩,ts aɪ t ə n
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,5,reisen,3.030,3.600,0.570,r aɪ z ə n,ʁ aj z ə n,ə r a ɛ z ə n
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,6,und,4.740,4.910,0.170, ʊ n t,ʊ n t,a l
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,7,warum,4.910,5.390,0.480,v ɑː r ʊ m,v aː ʁ ʊ m,v a r u n
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,8,weil,5.850,6.070,0.220,v aɪ l,v aj l,v a
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,9,ich,6.070,6.420,0.350, ɪ ç,ɪ ç,j
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,10,gerne,6.450,6.800,0.350,ɡ ɛ ɾ n ə,ɟ ɛ ɐ n ə,k a n
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,11,sehen,6.800,7.090,0.290,z eː ə n,z eː n,ts iɛ5 ŋ
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,12,würde,7.090,7.320,0.230,v ʏ ɾ d ə,v ʏ ʁ d ə,əɜ t ɑu5
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,13,ob,7.320,7.510,0.190, ɔ p,ɔ p,
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,14,das,7.510,7.810,0.300,d a s,d aː s,t a s
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,15,alles,7.810,8.250,0.440, a l ə s,a l ə s,a l s
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,16,wahr,8.250,8.540,0.290,v ɑː ɾ,v aː ʁ,a
+71270,C:\PY\pronuncise_research\mfa_corpus_german\71270.wav,17,ist,8.540,8.970,0.430, ɪ s t,ɪ s,n s
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,0,das,1.340,1.530,0.190,d a s,d aː s,t a s
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,1,wichtigste,1.530,1.910,0.380,v ɪ ç t ɪ ç s t ə,v ɪ ç tʰ ɪ ç s t ə,y ɕ tʲ i k s
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,2,in,1.910,2.000,0.090, ɪ n,ɪ n,l
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,3,einer,2.000,2.180,0.180, aɪ n ɜ,aj n ɐ,a n
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,4,beziehung,2.180,3.240,1.060,b ə ts iː ʊ ŋ,b ə ts iː ʊ ŋ,b i t ts iː a ɡ n a
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,5,sowohl,3.240,3.990,0.750,z oː v oː l,z oː v oː l,s a v ʁ ɛ
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,6,zwischenmenschlich,4.060,5.030,0.970,ts v ɪ ʃ ə n m ɛ n ʃ l ɪ ç,spn,s b ɪ ʃ ə n m ɛ n ʃ t l ɪ ç
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,7,als,5.030,5.520,0.490, a l s,a l s,a ə ts
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,8,auch,5.520,5.900,0.380, aʊ x,aw x,a
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,9,romantisch,5.900,6.480,0.580,r oː m a n t ɪ ʃ,ʁ ɔ m a n tʰ ɪ ʃ,u m a n t e s
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,10,denke,6.480,6.740,0.260,d ɛ ŋ k ə,d ɛ ŋ kʰ ə,t aɪ n k
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,11,ich,6.740,7.040,0.300, ɪ ç,ɪ ç,i s
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,12,kann,7.530,7.760,0.230,k a n,kʰ a n,a
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,13,man,7.760,8.180,0.420,m a n,m a n,
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,14,runterbrechen,8.210,9.800,1.590,r ʊ n t ɜ b ɾ ɛ ç ə n,spn,z ɪ n t k a m ɜ r ʊ n t ɛ b ɾ ɛ ʃ ə n
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,15,auf,9.800,10.560,0.760, aʊ f,aw f,aʊ
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,16,handeln,10.960,11.330,0.370,h a n d ə l n,h a n d ə l n,x a n t əɜ
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,17,in,11.330,11.520,0.190, ɪ n,ɪ n,i n
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,18,augenhöhe,11.520,12.160,0.640, aʊ ɡ ə n h øː ə,aw ɡ n̩ h øː ə,aʊ ɡ ə n f iː
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,19,und,12.160,12.840,0.680, ʊ n t,ʊ n t,oː n t
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,20,vertrauen,13.810,14.370,0.560,f ɛ ɾ t ɾ aʊ ə n,f ɛ ɐ t ʁ aw n̩,aː
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,21,ich,14.600,14.660,0.060, ɪ ç,ɪ ç,
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,22,denke,14.660,15.180,0.520,d ɛ ŋ k ə,d ɛ ŋ kʰ ə,a t r ɔ n
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,23,dann,16.120,16.520,0.400,d a n,d a n,əɜ n
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,24,passt,16.840,17.060,0.220,p a s t,pʰ a s t,i s
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,25,das,17.060,17.280,0.220,d a s,d aː s,i n k
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,26,oder,17.280,17.540,0.260, oː d ɜ,oː d ɐ,
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,27,passt,19.370,19.670,0.300,p a s t,pʰ a s t,p a s
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,28,das,19.670,19.860,0.190,d a s,d aː s,s
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,29,nicht,19.860,19.990,0.130,n ɪ ç t,n ɪ ç,
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,30,aber,19.990,20.090,0.100, ɑː b ɜ,a b ɐ,
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,31,der,20.090,20.180,0.090,d ɛ ɾ,d eː ʁ,
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,32,grundfall,20.180,21.030,0.850,ɡ ɾ ʊ n t f a l,spn,s t a s n ɪ ʃ a b
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,33,ist,21.030,21.090,0.060, ɪ s t,ɪ s,
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,34,denke,22.040,22.640,0.600,d ɛ ŋ k ə,d ɛ ŋ kʰ ə,j
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,35,ich,23.360,23.420,0.060, ɪ ç,ɪ ç,
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,36,dass,23.420,23.590,0.170,d a s,d a s,n s
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,37,du,23.590,24.030,0.440,d uː,d ə,a5 ʐ əɜ
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,38,den,24.670,24.790,0.120,d eː n,d eː n,
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,39,menschen,24.790,25.070,0.280,m ɛ n ʃ ə n,m ɛ n ʃ n̩,ɡ i s t
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,40,immer,25.070,25.160,0.090, ɪ m ɜ,ɪ m ɐ,
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,41,auf,25.950,26.120,0.170, aʊ f,aw f,ʌ s
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,42,augenhöhe,26.120,27.440,1.320, aʊ ɡ ə n h øː ə,aw ɡ ə n h øː ə,oʊ d ɪ n d m ɛ n ʃ ə n ɪ m ɜː
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,43,betrachtest,27.970,29.280,1.310,b ə t ɾ a x t ə s t,b ə t ʁ a x tʰ ə s t,aʊ f a ɡ ə n h y b ə t ɾ a x t ə s
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,44,nicht,30.340,30.600,0.260,n ɪ ç t,n ɪ ç t,n i s
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,45,als,30.600,30.750,0.150, a l s,a l s,a
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,46,selbstverständlich,30.750,31.790,1.040,z ɛ l p s t f ɛ ɾ ʃ t ɛ n t l ɪ ç,z ɛ l p s t f ɛ ɐ ʃ t ɛ n t l ɪ ç,z ɛ p s ɔ ʃ t ɛ n t l øː ç
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,47,und,31.790,32.310,0.520, ʊ n t,ʊ n t,r o n t
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,48,dass,32.310,32.700,0.390,d a s,d a s,a s
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,49,eben,34.720,35.000,0.280, eː b ə n,eː b n̩,i m aː
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,50,halt,35.000,35.210,0.210,h a l t,h a l t,a l t
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,51,die,35.210,35.300,0.090,d iː,d iː,
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,52,vertrauensbasis,35.300,36.080,0.780,f ɛ ɾ t ɾ aʊ ə n s b ɑ z ɪ s,spn,f ə t r oː ə n s b a z ə s
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,53,da,36.080,36.220,0.140,d ɑː,d aː,
+71271,C:\PY\pronuncise_research\mfa_corpus_german\71271.wav,54,ist,36.220,36.440,0.220, ɪ s t,ɪ s,s
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,0,in,0.740,0.840,0.100, ɪ n,ɪ n,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,1,der,0.840,0.930,0.090,d ɛ ɾ,d eː ʁ,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,2,schule,0.930,1.810,0.880,ʃ uː l ə,ʃ uː l ə,ɕ u5 l əɜ n
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,3,sollte,1.840,2.600,0.760,z ɔ l t ə,z ɔ l tʰ ə,s aɪ th ɪ ŋ
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,4,als,3.070,3.830,0.760, a l s,a l s,a l s
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,5,allererstes,3.890,5.010,1.120, a l ɜ eː ɾ s t ə s,spn,a l ə e s t y s
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,6,denke,5.010,5.330,0.320,d ɛ ŋ k ə,d ɛ ŋ kʰ ə,əɜ ŋ k
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,7,ich,5.330,5.500,0.170, ɪ ç,ɪ ç,s
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,8,mal,5.500,5.900,0.400,m ɑː l,m aː l,m aɪ
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,9,die,7.420,7.540,0.120,d iː,d iː,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,10,fähigkeit,7.540,8.650,1.110,f ɛː ɪ ç k aɪ t,f eː ɪ ç kʰ aj t,f iː ç k aɪ t
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,11,der,9.560,9.640,0.080,d ɛ ɾ,d eː ʁ,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,12,kinder,9.640,10.090,0.450,k ɪ n d ɜ,cʰ ɪ n d ɐ,k i n n a
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,13,geweckt,10.920,11.380,0.460,ɡ ə v ɛ k t,ɡ ə v ɛ k t,ɪ v ɛ k
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,14,oder,11.380,11.630,0.250, oː d ɜ,oː d ɐ,t e̞
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,15,auch,11.630,11.760,0.130, aʊ x,aw x,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,16,eben,11.760,12.120,0.360, eː b ə n,eː b n̩,iː v ə n
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,17,beibehalten,12.120,13.150,1.030,b aɪ b eː a l t ə n,b aj b ə h a l tʰ n̩,b aɪ b a h ʌ
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,18,werden,13.150,13.700,0.550,v ɛ ɾ d ə n,v eː ɐ d ə n,v eː a d ə n
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,19,sich,14.200,14.300,0.100,z ɪ ç,z ɪ ç,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,20,an,14.300,14.930,0.630, a n,a n,h aː n
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,21,der,15.420,15.540,0.120,d ɛ ɾ,d eː ʁ,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,22,natur,15.540,16.250,0.710,n a t uː ɾ,n a tʰ uː ɐ,n d ə n a t uː
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,23,und,16.250,16.440,0.190, ʊ n t,ʊ n t,ɑ n t
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,24,an,16.440,16.730,0.290, a n,a n,a
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,25,kleinen,17.880,18.220,0.340,k l aɪ n ə n,k l aj n n̩,k l aɪ n
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,26,dingen,18.220,18.510,0.290,d ɪ ŋ ə n,d ɪ ŋ ə n,t i ŋ
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,27,an,18.510,18.960,0.450, a n,a n,n
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,28,wie,18.960,19.100,0.140,v iː,v iː,i
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,29,funktioniert,19.100,19.940,0.840,f ʊ ŋ k ts j oː n iː ɾ t,f ʊ ŋ k t s j ɔ n iː ɐ t,f u5 ts i̪5 n iɑ5
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,30,das,19.940,20.340,0.400,d a s,d aː s,a s
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,31,wie,20.800,21.380,0.580,v iː,v iː,f i5 ʐ i.5
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,32,passiert,21.380,21.800,0.420,p a s iː ɾ t,pʰ a s iː ɐ t,p a s e
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,33,sowas,21.800,22.230,0.430,z oː v ɑː s,z oː v a s,s ə b a s
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,34,das,22.230,22.390,0.160,d a s,d aː s,t
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,35,ist,22.390,22.490,0.100, ɪ s t,ɪ s,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,36,ja,22.490,22.650,0.160,j ɑː,j aː,əɜ
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,37,geil,22.650,23.220,0.570,ɡ aɪ l,ɡ aj l,k ai5
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,38,warum,23.360,23.790,0.430,v ɑː r ʊ m,v aː ʁ ʊ m,f a h u
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,39,leuchtet,23.790,24.210,0.420,l ɔø ç t ə t,l ɔʏ ç tʰ ə t,n o ʃ e t
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,40,das,24.210,24.340,0.130,d a s,d aː s,s
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,41,so,24.340,24.660,0.320,z oː,z oː,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,42,warum,24.690,25.010,0.320,v ɑː r ʊ m,v aː ʁ ʊ m,b a k a
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,43,sieht,25.010,25.280,0.270,z iː t,z iː t,z i
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,44,das,25.280,25.440,0.160,d a s,d aː s,a s
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,45,so,25.440,25.520,0.080,z oː,z oː,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,46,aus,25.520,25.840,0.320, aʊ s,aw s,a s
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,47,wie,25.840,25.880,0.040,v iː,v iː,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,48,es,25.880,26.000,0.120, ɛ s,ə s,s
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,49,aussieht,26.000,26.440,0.440, aʊ s z iː t,aw s z iː t,a s i
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,50,diese,26.980,27.320,0.340,d iː z ə,d iː s ə,iː z
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,51,dinge,27.320,27.980,0.660,d ɪ ŋ ə,d ɪ ŋ ə,t iː s ə t ɪ ŋ w a
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,52,würden,28.680,29.180,0.500,v ʏ ɾ d ə n,v ʏ ɐ d ə n,a m
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,53,das,29.400,29.630,0.230,d a s,d aː s,b ʉ
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,54,interesse,29.630,30.700,1.070, ɪ n t ə r ɛ s ə,ɪ n t ʁ ɛ s ə,d ə d a s
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,55,etwas,30.700,31.120,0.420, ɛ t v ɑː s,ɛ t v a s,ɪ n t r ɛ s
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,56,zu,31.120,31.220,0.100,ts uː,ts ə,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,57,lernen,31.220,31.370,0.150,l ɛ ɾ n ə n,l ɛ ɐ n n̩,aː
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,58,sehr,31.420,31.970,0.550,z eː ɾ,z eː ɐ,a s ts u
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,59,fördern,31.970,32.300,0.330,f œ ɾ d ɜ n,f œ ʁ d ɐ n,l aː n
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,60,und,32.300,32.500,0.200, ʊ n t,ʊ n,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,61,zwar,33.170,33.370,0.200,ts v ɑː ɾ,ts v aː ɐ,s
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,62,mehr,33.370,33.480,0.110,m eː ɾ,m eː ɐ,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,63,als,33.480,33.750,0.270, a l s,a l s,s iɑ5
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,64,also,33.750,34.370,0.620, a l z oː,a l z oː,ɑu5 ts. əɜ n
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,65,die,34.370,34.460,0.090,d iː,d iː,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,66,fähigkeit,34.460,35.710,1.250,f ɛː ɪ ç k aɪ t,f eː ɪ ç kʰ aj t,s v ɑːɹ m æ d z
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,67,die,35.740,35.780,0.040,d iː,d iː,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,68,frage,35.780,35.950,0.170,f r ɑː ɡ ə,f ʁ aː ɡ ə,əɜ
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,69,war,35.950,36.020,0.070,v ɑː ɾ,v aː ɐ,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,70,welche,36.320,36.530,0.210,v ɛ l ç ə,v ɛ l ç ə,a t
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,71,fähigkeit,36.530,37.310,0.780,f ɛː ɪ ç k aɪ t,f eː ɪ ç kʰ aj t,d i d iː f ɛ ç k a
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,72,sollte,37.310,37.520,0.210,z ɔ l t ə,z ɔ l tʰ ə,
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,73,gefördert,37.520,38.120,0.600,ɡ ə f œ ɾ d ɜ t,ɡ ə f œ ɐ d ɐ t,d iː f r a ɡ v a
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,74,werden,38.430,38.680,0.250,v ɛ ɾ d ə n,v eː d ə n,m ɛ ʃ i
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,75,begeisterung,38.720,40.470,1.750,b ə ɡ aɪ s t ə r ʊ ŋ,b ə ɡ aj s t ə ʁ ʊ ŋ,f iː k aɪ ts ɔ t ɡ ə f œ d a p ɛ d ə n
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,76,begeisterung,40.730,41.420,0.690,b ə ɡ aɪ s t ə r ʊ ŋ,b ə ɡ aj s t ə ʁ ʊ ŋ,b ə k aɪ s t a x ʊ
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,77,sollte,41.620,41.840,0.220,z ɔ l t ə,z ɔ l tʰ ə,ɔ k a
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,78,auf,41.840,42.010,0.170, aʊ f,aw f,s t
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,79,jeden,42.010,42.210,0.200,j eː d ə n,j eː d n̩,f a n
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,80,fall,42.210,42.610,0.400,f a l,f a l,z ɔ t a
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,81,gefördert,42.660,43.440,0.780,ɡ ə f œ ɾ d ɜ t,ɡ ə f œ ʁ d ɐ t,ɪ n f aɪ ɡ ə s uɨ d ə
+71272,C:\PY\pronuncise_research\mfa_corpus_german\71272.wav,82,werden,43.440,43.690,0.250,v ɛ ɾ d ə n,v eː ɐ d n̩,aː n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,0,die,1.120,1.220,0.100,d iː,d iː,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,1,zukunft,1.220,1.700,0.480,ts uː k ʊ n f t,ts uː kʰ ʊ m f t,s oʊ k ɔ s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,2,der,1.700,1.780,0.080,d ɛ ɾ,d eː ʁ,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,3,bildung,1.780,2.470,0.690,b ɪ l d ʊ ŋ,b ɪ l d ʊ ŋ,p i l ɪ ɡ u
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,4,da,2.940,3.900,0.960,d ɑː,d aː,t iɛ5
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,5,stehen,4.160,4.870,0.710,ʃ t eː ə n,ʃ t eː ə n,s t iː n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,6,sehr,4.950,5.310,0.360,z eː ɾ,z eː ɐ,s e
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,7,sehr,5.310,5.590,0.280,z eː ɾ,z eː ɐ,z e
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,8,viele,5.590,6.290,0.700,f iː l ə,f iː l ə,s iː l
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,9,wege,6.330,6.860,0.530,v ɛ k ə,v eː ɡ ə,v e t ə
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,10,offen,6.860,7.280,0.420, ɔ f ə n,ɔ f ə n,s i5 n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,11,interessanterweise,7.280,8.260,0.980, ɪ n t ə r ɛ s a n t ɜ v aɪ z ə,ɪ n tʰ ə ʁ ɛ s a n tʰ ɐ v aj z ə,ɪ n t w a s a n d ɛ v aɪ z ə
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,12,dennoch,9.090,9.420,0.330,d ɛ n ɔ x,d ɛ n ɔ x,iɛ5 n ɑu5
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,13,sehen,9.420,9.710,0.290,z eː ə n,z eː ə n,s aɪ n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,14,die,9.710,9.800,0.090,d iː,d iː,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,15,meisten,9.800,10.210,0.410,m aɪ s t ə n,m aj s t n̩,m a s t ə
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,16,das,10.210,10.420,0.210,d a s,d aː s,d a s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,17,glaube,10.420,10.860,0.440,ɡ l aʊ b ə,ɡ l aw b ə,k l a b i
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,18,ich,10.860,11.000,0.140, ɪ ç,ɪ ç,s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,19,sehr,11.000,11.770,0.770,z eː ɾ,z eː ɐ,s iɛ5
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,20,kritisch,12.210,12.920,0.710,k ɾ iː t ɪ ʃ,k ʁ iː tʰ ɪ ʃ,t r iː t ɪ s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,21,denn,12.920,13.300,0.380,d ɛ n,d ɛ n,n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,22,das,13.640,13.930,0.290,d a s,d aː s,d a s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,23,werkzeug,13.930,14.320,0.390,v ɛ ɾ k ts ɔø k,v ɛ ʁ k ts ɔʏ k,b ɛ k ts a
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,24,was,14.390,14.670,0.280,v a s,v a s,a s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,25,uns,14.670,15.360,0.690, ʊ n s,ʊ n s,ɔ n s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,26,jederzeit,16.430,17.020,0.590,j eː d ɜ ts aɪ t,j eː d ɐ ts aj t,iː t e̞ s aɪ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,27,sag,17.250,17.620,0.370,z ɑː k,z aː k,s əɜ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,28,ich,17.620,17.790,0.170, ɪ ç,ɪ ç,ɡ i s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,29,mal,17.790,18.060,0.270,m ɑː l,m aː l,m a
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,30,verblüffen,18.480,19.380,0.900,f ɛ ɾ b l ʏ f ə n,spn,æ f ɔ p l ɪ z ə
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,31,könnte,19.380,19.670,0.290,k œ n t ə,cʰ œ n tʰ ə,kh əɜ n ts. o5
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,32,und,19.670,19.870,0.200, ʊ n t,ʊ n t,u5 t
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,33,updaten,19.870,19.970,0.100, ʊ p d ɑː t ə n,spn,a
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,34,upgraden,20.440,21.280,0.840, ʊ p ɡ ɾ ɑː d ə n,spn,eɪ t ə n a p ɡ ɹ eɪ d ə n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,35,könnte,21.280,21.610,0.330,k œ n t ə,cʰ œ n tʰ ə,k ɛ n d ə
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,36,mit,21.610,21.780,0.170,m ɪ t,m ɪ t,m i
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,37,support,22.050,22.600,0.550,z ʊ p ɔ ɾ t,z ʊ pʰ ɔ ɐ t,t aː
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,38,über,23.080,23.520,0.440, yː b ɜ,yː b ɐ,ə p ɔːɹ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,39,bestimmte,23.520,24.270,0.750,b ə ʃ t ɪ m t ə,b ə ʃ t ɪ m tʰ ə,t yː b ɜ b y ʃ t ɪ m t ɪ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,40,informationen,24.270,25.100,0.830, ɪ n f ɔ ɾ m a ts j oː n ə n,ɪ n f ɔ m a t s ɪ oː n n̩,ɪ n v ʊ m a ts i o n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,41,wird,26.650,27.040,0.390,v ɪ ɾ t,v ɪ ɐ t,v iː
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,42,denke,27.190,27.390,0.200,d ɛ ŋ k ə,d ɛ ŋ kʰ ə,i ŋ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,43,ich,27.390,27.490,0.100, ɪ ç,ɪ ç,s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,44,mal,27.490,27.890,0.400,m ɑː l,m aː l,m aː
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,45,eben,27.890,28.170,0.280, eː b ə n,eː b n̩,m
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,46,nicht,28.170,28.460,0.290,n ɪ ç t,n ɪ ç t,l e s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,47,so,28.460,28.800,0.340,z oː,z oː,z
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,48,benutzt,28.800,29.280,0.480,b ə n ʊ ts t,b ə n ʊ ts t,b ɪ n oː
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,49,sondern,29.280,29.580,0.300,z ɔ n d ɜ n,z ɔ n d ɐ n,o n a
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,50,eher,29.580,30.060,0.480, eː ɜ,eː ɐ,aː
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,51,so,30.790,31.190,0.400,z oː,z oː,z o
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,52,dass,31.190,31.570,0.380,d a s,d a s,d a s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,53,die,31.570,32.050,0.480,d iː,d ɪ,ts i5 iɛ5
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,54,bildung,32.320,33.710,1.390,b ɪ l d ʊ ŋ,b ɪ l d ʊ ŋ,ʌ b eː tɕ ʉ ŋ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,55,des,34.150,34.330,0.180,d ɛ s,d ə s,s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,56,einzelnen,34.330,34.980,0.650, aɪ n ts ɛ l n ə n,aj n ts l̩ n ə n,aɪ n ts ə l ə n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,57,eben,35.670,35.890,0.220, eː b ə n,eː b n̩,i m
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,58,halt,35.890,36.060,0.170,h a l t,h a l t,h a d
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,59,nicht,36.060,36.360,0.300,n ɪ ç t,n ɪ ç,n i
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,60,mehr,36.360,36.870,0.510,m eː ɾ,m eː ɐ,m i
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,61,da,37.190,37.430,0.240,d ɑː,d aː,t a
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,62,sein,37.430,37.670,0.240,z aɪ n,z aj n,z a n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,63,muss,37.670,37.940,0.270,m ʊ s,m ʊ s,a s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,64,es,37.940,38.130,0.190, ɛ s,ə s,a s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,65,wird,38.130,38.470,0.340,v ɪ ɾ t,v ɪ ɐ t,e t
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,66,einfach,38.550,38.850,0.300, aɪ n f a x,aj n f a x,a d
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,67,gefragt,38.850,39.550,0.700,ɡ ə f r ɑː k t,ɡ ə f ʁ aː k t,ə f æ k t
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,68,und,39.770,39.990,0.220, ʊ n t,ʊ n t,n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,69,dann,39.990,40.060,0.070,d a n,d a n,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,70,kriegt,40.060,40.300,0.240,k ɾ iː k t,k ʁ ɪ k t,f i
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,71,man,40.300,40.390,0.090,m a n,m a n,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,72,die,40.390,40.490,0.100,d iː,d iː,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,73,antwort,40.490,40.880,0.390, a n t v ɔ ɾ t,a n t v ɔ ɐ t,æ n t ɔ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,74,und,41.200,41.270,0.070, ʊ n t,ʊ n,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,75,dann,41.270,41.380,0.110,d a n,d a n,a
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,76,ist,41.380,41.490,0.110, ɪ s t,ɪ s,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,77,es,41.490,41.620,0.130, ɛ s,ə s,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,78,wieder,41.620,41.790,0.170,v iː d ɜ,v iː d ɐ,y5 t ə1
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,79,aus,41.790,41.870,0.080, aʊ s,aw s,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,80,dem,41.870,41.990,0.120,d eː m,d ə m,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,81,kopf,41.990,42.350,0.360,k ɔ p f,kʰ ɔ pf,k ɑ t
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,82,raus,42.350,42.570,0.220,r aʊ s,ʁ aw s,oʊ z
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,83,so,42.940,43.420,0.480,z oː,z oː,s o5 ʔ n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,84,denke,44.710,44.890,0.180,d ɛ ŋ k ə,d ɛ ŋ kʰ ə,n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,85,ich,44.890,45.010,0.120, ɪ ç,ɪ ç,s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,86,mal,45.010,45.370,0.360,m ɑː l,m aː l,m aɪ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,87,werden,46.380,46.720,0.340,v ɛ ɾ d ə n,v eː ʁ d ə n,v e n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,88,viele,46.720,47.290,0.570,f iː l ə,f iː l ə,ɕ i5 l o5
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,89,eine,47.450,47.610,0.160, aɪ n ə,aj n ə,m
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,90,ki,47.610,47.970,0.360,k iː,cʰ ɪ,kh əɜ j i5
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,91,nutzen,47.970,48.610,0.640,n ʊ ts ə n,n ʊ ts ə n,n o ts ɪ m
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,92,und,48.610,49.110,0.500, ʊ n t,ʊ n t,a n d
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,93,dass,50.220,51.450,1.230,d a s,d a s,d a s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,94,das,51.520,52.160,0.640,d a s,d aː s,d a s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,95,daran,53.650,54.310,0.660,d ɑː r a n,d a ʁ a n,b d a s a t a x a n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,96,hindert,54.310,54.890,0.580,h ɪ n d ɜ t,ç ɪ n d ɐ t,h ɪ m d a t
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,97,die,54.890,55.150,0.260,d iː,d iː,i5
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,98,problembewältigung,55.150,55.530,0.380,p ɾ oː b l eː m b eː v ɛ l t ɪ ɡ ʊ ŋ,spn,æ m ə s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,99,oder,56.050,56.340,0.290, oː d ɜ,oː d ɐ,o b l i
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,100,selbst,56.390,56.840,0.450,z ɛ l p s t,z ɛ l p s t,v ɛ l t i k
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,101,recherchieren,56.840,57.330,0.490,r ɛ ç ɜ ç iː r ə n,ʁ ɛ ç ə ʁ ʃ iː ʁ ə n,onɡ5
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,102,oder,57.330,57.460,0.130, oː d ɜ,oː d ɐ,a
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,103,diesen,57.550,57.910,0.360,d iː z ə n,d iː z ə n,n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,104,vorgang,58.990,59.510,0.520,f oː ɾ ɡ a ŋ,f oː ɐ ɡ a ŋ,aː
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,105,des,59.510,59.950,0.440,d ɛ s,d ə s,t ə oː d j a
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,106,lernens,59.950,60.230,0.280,l ɛ ɾ n ə n s,l ɛ ɐ n ə n s,eɪ p s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,107,oder,60.260,60.330,0.070, oː d ɜ,oː d ɐ,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,108,sich,60.330,60.690,0.360,z ɪ ç,z ɪ ç,s a s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,109,in,60.690,60.750,0.060, ɪ n,ɪ n,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,110,irgendwas,60.750,61.640,0.890, ɪ ɾ ɡ ə n d v ɑː s,ɪ ɐ ɡ n̩ t v a s,a5 n n u5 t ai5 u5 t əɜ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,111,reinzulesen,62.120,64.830,2.710,r aɪ n ts uː l eː z ə n,spn,ɛ s d iː z ə n f ɔ ɾ ɡ ə n d ɪ s l ɛ a n ə n ts eː b ə aʊ m
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,112,oder,64.830,65.220,0.390, oː d ɜ,oː d ɐ,t ə n aɪ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,113,sowas,65.990,68.410,2.420,z oː v ɑː s,z oː v a s,z ɪ ç ɛ ŋ ə ɪ n ɪ ŋ v a s ɾ r aɪ ə n ts oː l eː z ə n oː d ɜ z m a s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,114,das,68.410,68.900,0.490,d a s,d aː s,t a s e s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,115,geht,68.900,69.130,0.230,ɡ eː t,ɟ eː t,k ɛ t
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,116,eventuell,69.130,69.730,0.600, eː v ə n t uː ɛ l,ɛ v ɛ n tʰ ʊ ɛ l,i m ɛ n t l e a
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,117,hier,70.850,71.010,0.160,h iː ɾ,ç iː ɐ,h
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,118,und,71.010,71.110,0.100, ʊ n t,ʊ n t,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,119,da,71.110,71.190,0.080,d ɑː,d aː,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,120,verloren,71.190,71.850,0.660,f ɛ ɾ l oː r ə n,f ɛ ɐ l oː ʁ n̩,f a l oː d n ɪ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,121,weil,73.530,73.840,0.310,v aɪ l,v aj l,f ai5
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,122,es,73.840,74.340,0.500, ɛ s,ə s,i s t
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,123,eben,74.340,74.570,0.230, eː b ə n,eː b n̩,ʔ i m
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,124,einfacher,74.570,74.960,0.390, aɪ n f a x ɜ,aj n f a x ɐ,aɪ m t ɔ x eː
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,125,ist,74.960,75.150,0.190, ɪ s t,ɪ s,s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,126,dran,75.150,75.410,0.260,d ɾ ɑː n,d ʁ aː n,s q a n
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,127,zu,75.410,75.550,0.140,ts uː,ts uː,s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,128,kommen,75.550,76.000,0.450,k ɔ m ə n,kʰ ɔ m n̩,th
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,129,ich,76.030,76.090,0.060, ɪ ç,ɪ ç,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,130,persönlich,76.090,76.620,0.530,p ɛ ɾ z øː n l ɪ ç,pʰ ɛ ɐ z øː n l ɪ ç,a b ɑ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,131,sehe,76.900,77.320,0.420,z eː ə,z eː ə,ə s k a
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,132,die,78.170,78.250,0.080,d iː,d ɪ,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,133,zeit,79.100,79.250,0.150,ts aɪ t,ts aj t,a z
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,134,der,79.250,79.300,0.050,d ɛ ɾ,d eː ʁ,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,135,bildung,79.300,79.770,0.470,b ɪ l d ʊ ŋ,b ɪ l d ʊ ŋ,r e s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,136,die,80.080,80.440,0.360,d iː,d iː,i s p a
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,137,zukunft,80.440,81.020,0.580,ts uː k ʊ n f t,ts uː kʰ ʊ n f t,z o d i ʃ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,138,der,81.140,81.420,0.280,d ɛ ɾ,d eː ʁ,m ə s ɪ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,139,bildung,81.420,81.960,0.540,b ɪ l d ʊ ŋ,b ɪ l d ʊ ŋ,i5
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,140,eigentlich,83.350,83.600,0.250, aɪ ɡ ə n t l ɪ ç,aj n t l ɪ ç,a s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,141,sehr,83.600,83.800,0.200,z eː ɾ,z eː ɐ,t a
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,142,positiv,83.800,84.150,0.350,p oː z iː t iː f,pʰ oː z ɪ tʰ iː f,t i t
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,143,weil,84.150,84.220,0.070,v aɪ l,v aj l,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,144,die,84.220,84.350,0.130,d iː,d ɪ,d e
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,145,möglichkeiten,84.350,85.240,0.890,m œ k l ɪ ç k aɪ t ə n,m øː k l ɪ ç kʰ aj tʰ ə n,b e l l u m d i s u b u r u n t e
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,146,ja,85.280,85.340,0.060,j ɑː,j aː,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,147,noch,85.340,85.620,0.280,n ɔ x,n ɔ x,ts. u5 ai5
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,148,nie,85.620,85.760,0.140,n iː,n iː,m
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,149,so,85.760,85.930,0.170,z oː,z oː,s
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,150,großartig,85.930,86.980,1.050,ɡ ɾ oː s a ɾ t ɪ ç,spn,ɛ p o z i t i f
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,151,waren,86.980,87.310,0.330,v ɑː r ə n,v aː ʁ ə n,ʌ l
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,152,bildung,88.060,88.620,0.560,b ɪ l d ʊ ŋ,b ɪ l d ʊ ŋ,i n m ɵ k u s k ɛ
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,153,zu,88.620,88.680,0.060,ts uː,ts uː,
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,154,erlangen,88.680,89.900,1.220, ɛ ɾ l a ŋ ə n,ɛ ɐ l a ŋ ə n,n h i b n u x n uː h n iː z
+71274,C:\PY\pronuncise_research\mfa_corpus_german\71274.wav,155,einfach,90.730,91.400,0.670, aɪ n f a x,aj n f a x,u5 kh onɡ5 s a t i5 ɕ
+71324,C:\PY\pronuncise_research\mfa_corpus_german\71324.wav,0,ich,1.010,1.130,0.120, ɪ ç,ɪ ç,
+71324,C:\PY\pronuncise_research\mfa_corpus_german\71324.wav,1,koche,1.130,1.450,0.320,k ɔ x ə,spn,k aː f
+71324,C:\PY\pronuncise_research\mfa_corpus_german\71324.wav,2,sehr,1.450,1.660,0.210,z eː ɾ,z eː ɐ,z a
+71324,C:\PY\pronuncise_research\mfa_corpus_german\71324.wav,3,gerne,1.660,2.290,0.630,ɡ ɛ ɾ n ə,ɟ ɛ ɐ n ə,k aː n u
+71324,C:\PY\pronuncise_research\mfa_corpus_german\71324.wav,4,und,2.430,2.620,0.190, ʊ n t,ʊ n t,
+71324,C:\PY\pronuncise_research\mfa_corpus_german\71324.wav,5,sehr,2.620,2.850,0.230,z eː ɾ,z eː ɐ,
+71324,C:\PY\pronuncise_research\mfa_corpus_german\71324.wav,6,unterschiedliche,2.850,3.610,0.760, ʊ n t ɜ ʃ iː t l ɪ ç ə,ʊ n tʰ ɐ ʃ iː t l ɪ ç ə,ʌ n d a ʃ ɵ t l i h ɪ
+71324,C:\PY\pronuncise_research\mfa_corpus_german\71324.wav,7,dinge,3.610,3.970,0.360,d ɪ ŋ ə,d ɪ ŋ ə,d eː ŋ a
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,0,wenn,1.320,1.470,0.150,v ɛ n,v ɛ n,a
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,1,ich,1.470,1.650,0.180, ɪ ç,ɪ ç,a5 tɕh
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,2,ein,1.650,1.810,0.160, aɪ n,ə n,a
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,3,tier,1.810,2.130,0.320,t iː ɾ,tʰ iː ɐ,t i5
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,4,wäre,2.130,2.420,0.290,v ɛː r ə,v eː ʁ ə,m aː f a
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,5,würde,2.420,2.560,0.140,v ʏ ɾ d ə,v ʏ ʁ d ə,h a d
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,6,ich,2.560,2.650,0.090, ɪ ç,ɪ ç,s
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,7,eine,2.650,2.860,0.210, aɪ n ə,aj n ə,a n
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,8,rauchschweibe,2.860,3.620,0.760,r aʊ x ʃ v aɪ b ə,spn,aʊ x ʃ a d
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,9,sein,3.620,4.000,0.380,z aɪ n,z aj n,z aɪ n
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,10,wollen,4.000,4.340,0.340,v ɔ l ə n,v ɔ l n̩,ɑ n
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,11,weil,4.340,4.440,0.100,v aɪ l,v aj l,a
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,12,die,4.440,4.550,0.110,d iː,d iː,t ɪ
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,13,so,4.550,4.670,0.120,z oː,z oː,s
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,14,wunderschön,4.670,5.290,0.620,v ʊ n d ɜ ʃ øː n,v ʊ n d ɐ ʃ øː n,v u n a ʃ u n
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,15,singen,5.290,5.800,0.510,z ɪ ŋ ə n,z ɪ ŋ n̩,z i ŋ
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,16,wenn,5.800,6.000,0.200,v ɛ n,v ɛ n,a n
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,17,sie,6.000,6.210,0.210,z iː,z iː,ts iː
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,18,aus,6.570,6.730,0.160, aʊ s,aw s,s
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,19,ihrem,6.730,7.020,0.290, iː r ə m,iː ʁ ə m,a r n
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,20,winter,7.020,7.300,0.280,v ɪ n t ɜ,v ɪ n tʰ ɐ,ɪ n t ɚ
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,21,in,7.300,7.430,0.130, ɪ n,ɪ n,n
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,22,afrika,7.430,7.950,0.520, a f r iː k ɑː,aː f ʁ ɪ kʰ a,æ f ɹ ɪ k ə
+71325,C:\PY\pronuncise_research\mfa_corpus_german\71325.wav,23,zurückkommen,7.950,8.700,0.750,ts uː r ʏ k k ɔ m ə n,ts ʊ ʁ ʏ kʰ ɔ m n̩,t oː l k ʌ m
+71326,C:\PY\pronuncise_research\mfa_corpus_german\71326.wav,0,ich,1.060,1.210,0.150, ɪ ç,ɪ ç,i s
+71326,C:\PY\pronuncise_research\mfa_corpus_german\71326.wav,1,möchte,1.210,1.510,0.300,m œ ç t ə,m œ ç tʰ ə,m e s t i
+71326,C:\PY\pronuncise_research\mfa_corpus_german\71326.wav,2,gerne,1.510,1.740,0.230,ɡ ɛ ɾ n ə,ɟ ɛ ʁ n ə,k a n
+71326,C:\PY\pronuncise_research\mfa_corpus_german\71326.wav,3,neugriechisch,1.740,2.610,0.870,n ɔø ɡ ɾ iː ç ɪ ʃ,spn,a n oː ɡ r ɪ s ɪ ʃ oː
+71326,C:\PY\pronuncise_research\mfa_corpus_german\71326.wav,4,lernen,2.610,2.940,0.330,l ɛ ɾ n ə n,l ɛ ɐ n n̩,a m
+71326,C:\PY\pronuncise_research\mfa_corpus_german\71326.wav,5,weil,2.940,3.050,0.110,v aɪ l,v aj l,b a
+71326,C:\PY\pronuncise_research\mfa_corpus_german\71326.wav,6,meine,3.050,3.240,0.190,m aɪ n ə,m aj n ə,m a n
+71326,C:\PY\pronuncise_research\mfa_corpus_german\71326.wav,7,schwester,3.240,3.640,0.400,ʃ v ɛ s t ɜ,ʃ v ɛ s t ɐ,ʃ v ɛ s t ɛ
+71326,C:\PY\pronuncise_research\mfa_corpus_german\71326.wav,8,in,3.640,3.800,0.160, ɪ n,ɪ n,
+71326,C:\PY\pronuncise_research\mfa_corpus_german\71326.wav,9,griechenland,3.800,4.470,0.670,ɡ ɾ iː ç ə n l a n t,ɡ ʁ iː ç ə n l a n t,t əɪ ç ə n n a n
+71326,C:\PY\pronuncise_research\mfa_corpus_german\71326.wav,10,wohnt,4.470,4.830,0.360,v oː n t,v oː n t,oː m t
+71327,C:\PY\pronuncise_research\mfa_corpus_german\71327.wav,0,das,1.410,1.550,0.140,d a s,d aː s,a z
+71327,C:\PY\pronuncise_research\mfa_corpus_german\71327.wav,1,ist,1.550,1.680,0.130, ɪ s t,ɪ s t,s
+71327,C:\PY\pronuncise_research\mfa_corpus_german\71327.wav,2,eine,1.680,1.860,0.180, aɪ n ə,aj n ə,a n
+71327,C:\PY\pronuncise_research\mfa_corpus_german\71327.wav,3,frage,1.860,2.240,0.380,f r ɑː ɡ ə,f ʁ aː ɡ ə,s f a h d i
+71327,C:\PY\pronuncise_research\mfa_corpus_german\71327.wav,4,die,2.240,2.330,0.090,d iː,d iː,
+71327,C:\PY\pronuncise_research\mfa_corpus_german\71327.wav,5,ich,2.330,2.530,0.200, ɪ ç,ɪ ç,e̞
+71327,C:\PY\pronuncise_research\mfa_corpus_german\71327.wav,6,unmöglich,2.530,3.200,0.670, ʊ n m øː k l ɪ ç,ʊ n m øː k l ɪ ç,ʊ n øː k t ɪ
+71327,C:\PY\pronuncise_research\mfa_corpus_german\71327.wav,7,beantworten,3.200,3.820,0.620,b ə a n t v ɔ ɾ t ə n,b ə a n t v ɔ ʁ tʰ n̩,b a n t v ɔ d ə
+71327,C:\PY\pronuncise_research\mfa_corpus_german\71327.wav,8,kann,3.820,4.150,0.330,k a n,kʰ a n,k a m
+71328,C:\PY\pronuncise_research\mfa_corpus_german\71328.wav,0,ich,0.870,1.020,0.150, ɪ ç,ɪ ç,i
+71328,C:\PY\pronuncise_research\mfa_corpus_german\71328.wav,1,bin,1.020,1.160,0.140,b ɪ n,b ɪ n,
+71328,C:\PY\pronuncise_research\mfa_corpus_german\71328.wav,2,sehr,1.160,1.390,0.230,z eː ɾ,z eː ɐ,s iɛ5
+71328,C:\PY\pronuncise_research\mfa_corpus_german\71328.wav,3,skeptisch,1.390,2.190,0.800,s k ɛ p t ɪ ʃ,s c ɛ p tʰ ɪ ʃ,z k æ p t ɪ v z
+71329,C:\PY\pronuncise_research\mfa_corpus_german\71329.wav,0,ich,1.020,1.230,0.210, ɪ ç,ɪ ç,l iː s
+71329,C:\PY\pronuncise_research\mfa_corpus_german\71329.wav,1,mag,1.230,1.500,0.270,m ɑː k,m aː k,m a k
+71329,C:\PY\pronuncise_research\mfa_corpus_german\71329.wav,2,am,1.500,1.630,0.130, a m,a m,a m
+71329,C:\PY\pronuncise_research\mfa_corpus_german\71329.wav,3,liebsten,1.630,2.080,0.450,l iː b s t ə n,l iː p s t n̩,l iː p s n
+71329,C:\PY\pronuncise_research\mfa_corpus_german\71329.wav,4,den,2.080,2.260,0.180,d eː n,d eː n,d n
+71329,C:\PY\pronuncise_research\mfa_corpus_german\71329.wav,5,herbst,2.260,3.030,0.770,h ɛ ɾ p s t,h ɛ ʁ p s t,h a p s t
+71329,C:\PY\pronuncise_research\mfa_corpus_german\71329.wav,6,weil,3.370,3.570,0.200,v aɪ l,v aj l,p a
+71329,C:\PY\pronuncise_research\mfa_corpus_german\71329.wav,7,sich,3.570,3.700,0.130,z ɪ ç,z ɪ ç,i s
+71329,C:\PY\pronuncise_research\mfa_corpus_german\71329.wav,8,dann,3.700,3.880,0.180,d a n,d a n,t a
+71329,C:\PY\pronuncise_research\mfa_corpus_german\71329.wav,9,alles,3.880,4.460,0.580, a l ə s,a l ə s,a l u s
+71329,C:\PY\pronuncise_research\mfa_corpus_german\71329.wav,10,ein,4.600,4.750,0.150, aɪ n,aj n,a
+71329,C:\PY\pronuncise_research\mfa_corpus_german\71329.wav,11,bisschen,4.750,5.070,0.320,b ɪ s ç ə n,b ɪ s ç ə n,b a s
+71329,C:\PY\pronuncise_research\mfa_corpus_german\71329.wav,12,zurück,5.070,5.430,0.360,ts uː r ʏ k,ts ʊ ʁ ʏ k,s u p ə l k
+71329,C:\PY\pronuncise_research\mfa_corpus_german\71329.wav,13,faltet,5.430,6.090,0.660,f a l t ə t,f a l tʰ ə t,f aɪ t ə d
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,0,ich,1.180,1.320,0.140, ɪ ç,ɪ ç,i
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,1,mache,1.320,1.540,0.220,m a x ə,m a x ə,m a ħ
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,2,nicht,1.540,1.830,0.290,n ɪ ç t,n ɪ ç t,m i s
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,3,gerne,1.830,2.150,0.320,ɡ ɛ ɾ n ə,ɟ ɛ ʁ n ə,k aː n
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,4,sport,2.150,2.580,0.430,ʃ p ɔ ɾ t,ʃ p ɔ ɐ t,ʃ p ɑ d
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,5,aber,2.580,2.810,0.230, ɑː b ɜ,a b ɐ,a b ɑ
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,6,wenn,2.810,2.940,0.130,v ɛ n,v ɛ n,
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,7,ich,2.940,3.130,0.190, ɪ ç,ɪ ç,s a
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,8,einen,3.130,3.400,0.270, aɪ n ə n,aj n n̩,a n
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,9,machen,3.400,3.770,0.370,m a x ə n,m a x ə n,b a k ə n
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,10,würde,3.770,4.040,0.270,v ʏ ɾ d ə,v ʏ ʁ d ə,oː t e
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,11,dann,4.040,4.240,0.200,d a n,d a n,a n
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,12,wäre,4.240,4.360,0.120,v ɛː r ə,v eː ʁ ə,a
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,13,es,4.400,4.570,0.170, ɛ s,ɛ s,s
+71330,C:\PY\pronuncise_research\mfa_corpus_german\71330.wav,14,tanzen,4.570,5.220,0.650,t a n ts ə n,tʰ a n ts ə n,t a m s ə n
+71331,C:\PY\pronuncise_research\mfa_corpus_german\71331.wav,0,ich,1.020,1.210,0.190, ɪ ç,ɪ ç,iː
+71331,C:\PY\pronuncise_research\mfa_corpus_german\71331.wav,1,persönlich,1.210,1.770,0.560,p ɛ ɾ z øː n l ɪ ç,pʰ ɛ ɐ z øː n l ɪ ç,p a z uː n i ʃ
+71331,C:\PY\pronuncise_research\mfa_corpus_german\71331.wav,2,fahre,1.770,2.020,0.250,f ɑː r ə,f aː ʁ ə,ɑu5 k
+71331,C:\PY\pronuncise_research\mfa_corpus_german\71331.wav,3,am,2.020,2.160,0.140, a m,a m,a n
+71331,C:\PY\pronuncise_research\mfa_corpus_german\71331.wav,4,liebsten,2.160,2.690,0.530,l iː b s t ə n,l iː p s t n̩,i b s n a
+71331,C:\PY\pronuncise_research\mfa_corpus_german\71331.wav,5,ans,2.690,2.980,0.290, a n s,aː ɛ n ɛ s,a n t
+71331,C:\PY\pronuncise_research\mfa_corpus_german\71331.wav,6,meer,2.980,3.380,0.400,m eː ɾ,m eː ɐ,m i a
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,0,ich,1.490,1.720,0.230, ɪ ç,ɪ ç,a ʃ
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,1,würde,1.720,1.960,0.240,v ʏ ɾ d ə,v ʏ ʁ d ə,ɑ d e
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,2,gerne,1.960,2.300,0.340,ɡ ɛ ɾ n ə,ɟ ɛ ʁ n ə,ɡ a n
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,3,in,2.300,2.400,0.100, ɪ n,ɪ n,
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,4,das,2.400,2.580,0.180,d a s,d aː s,s
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,5,england,2.580,3.090,0.510, ɛ ŋ l a n t,ɛ ŋ l a n t,ɪ ŋ ɡ l ʌ n d
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,6,von,3.090,3.340,0.250,f ɔ n,f ɔ n,f n
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,7,jane,3.340,3.680,0.340,j ɑː n ə,j aː n ə,ts. ei5 n
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,8,austen,3.680,4.310,0.630, aʊ s t ə n,aw s t ə n,ɑː s t ə
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,9,reisen,4.700,5.180,0.480,r aɪ z ə n,ʁ aj z ə n,aɪ z ə n
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,10,weil,5.210,5.370,0.160,v aɪ l,v aj l,a
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,11,ich,5.370,5.610,0.240, ɪ ç,ɪ ç,s
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,12,ihre,6.380,6.520,0.140, iː r ə,iː ʁ ə,l a
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,13,bücher,6.520,7.080,0.560,b yː ç ɜ,b yː ç ɐ,i ʃ a
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,14,sehr,7.080,7.360,0.280,z eː ɾ,z eː ɐ,z i
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,15,liebe,7.360,7.730,0.370,l iː b ə,l iː b ə,d i b
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,16,und,7.730,8.110,0.380, ʊ n t,ʊ n t,a n
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,17,mal,8.110,8.310,0.200,m ɑː l,m a,m aː
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,18,erfahren,8.310,9.000,0.690, ɛ ɾ f ɑː r ə n,ɛ ɐ f aː ɐ n,a f aː ɣ a n
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,19,möchte,9.000,9.420,0.420,m œ ç t ə,m œ ç tʰ ə,a s t a
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,20,wie,10.070,10.330,0.260,v iː,v iː,v i
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,21,sehr,10.330,10.570,0.240,z eː ɾ,z eː ɐ,z i
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,22,die,10.570,10.720,0.150,d iː,d ɪ,d
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,23,eigentlich,10.720,11.220,0.500, aɪ ɡ ə n t l ɪ ç,aj n t l ɪ ç,a ŋ k ə s
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,24,mit,11.220,11.400,0.180,m ɪ t,m ɪ t,m a t
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,25,der,11.400,11.620,0.220,d ɛ ɾ,d eː ʁ,
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,26,damaligen,11.910,12.500,0.590,d ɑ m a l ɪ ɡ ə n,d a m aː l ɪ ɡ n̩,d a m a l iː ɡ ə n
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,27,zeit,12.500,12.840,0.340,ts aɪ t,ts aj t,s ai5
+71332,C:\PY\pronuncise_research\mfa_corpus_german\71332.wav,28,übereinstimmen,12.840,13.760,0.920, yː b ɜ aɪ n ʃ t ɪ m ə n,yː b ɐ aj n ʃ t ɪ m ə n,uː b ɜ aɪ n ʃ t ɪ m
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,0,ich,1.210,1.350,0.140, ɪ ç,ɪ ç,
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,1,trage,1.350,2.030,0.680,t ɾ ɑː ɡ ə,t ʁ aː ɡ ə,s a t a ɡ ə
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,2,sehr,2.030,2.290,0.260,z eː ɾ,z eː ɐ,z i
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,3,gerne,2.290,2.640,0.350,ɡ ɛ ɾ n ə,ɟ ɛ ʁ n ə,ɡ a n ɛ
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,4,kleider,2.640,3.090,0.450,k l aɪ d ɜ,k l aj d ɐ,s aɪ t ɑ
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,5,aus,3.090,3.360,0.270, aʊ s,aw s,a s
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,6,guten,3.360,3.720,0.360,ɡ uː t ə n,ɡ uː tʰ n̩,uː t
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,7,webstoffen,3.720,4.690,0.970,v ɛ p s t ɔ f ə n,spn,v ɪ ç p ʃ t ɑː s ə n
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,8,weil,4.830,4.970,0.140,v aɪ l,v aj l,a
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,9,ich,4.970,5.110,0.140, ɪ ç,ɪ ç,a s
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,10,es,5.110,5.250,0.140, ɛ s,ə s,a s
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,11,einfach,5.250,5.530,0.280, aɪ n f a x,aj n f a x,a n t ɑ
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,12,schön,5.530,5.900,0.370,ʃ øː n,ʃ øː n,s. i.5 n
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,13,finde,5.900,6.330,0.430,f ɪ n d ə,f ɪ n d ə,s a n
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,14,wenn,6.930,7.260,0.330,v ɛ n,v ɛ n,b ɛ n
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,15,dinge,7.260,7.510,0.250,d ɪ ŋ ə,d ɪ ŋ ə,t i n a
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,16,des,7.510,7.700,0.190,d ɛ s,d ə s,t a s
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,17,alltags,7.700,8.400,0.700, a l t ɑː k s,a l tʰ aː k s,aɪ l t a k s
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,18,sorgfältig,8.400,9.140,0.740,z ɔ ɾ k f ɛ l t ɪ ç,z ɔ ɐ k f ɛ l tʰ ɪ ç,ɔ k s ɛ l t ɪ ç
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,19,hergestellt,9.140,9.820,0.680,h ɛ ɾ ɡ ɛ ʃ t ɛ l t,h eː ɐ ɡ ə ʃ t ɛ l t,ɛ ɡ ə s t ɛ l t
+71333,C:\PY\pronuncise_research\mfa_corpus_german\71333.wav,20,werden,9.820,10.250,0.430,v ɛ ɾ d ə n,v eː ɐ d ə n,l a n
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,0,ich,1.690,1.850,0.160, ɪ ç,ɪ ç,iː
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,1,mag,1.850,2.140,0.290,m ɑː k,m aː k,m a k
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,2,sehr,2.140,2.650,0.510,z eː ɾ,z eː ɐ,s i
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,3,gerne,2.650,3.390,0.740,ɡ ɛ ɾ n ə,ɟ ɛ ɐ n ə,ɡ a n
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,4,regen,3.660,4.060,0.400,r eː ɡ ə n,ʁ eː ɡ n̩,a h iː ɡ
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,5,und,4.890,5.030,0.140, ʊ n t,ʊ n t,
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,6,zwar,5.030,5.190,0.160,ts v ɑː ɾ,ts v aː ɐ,a
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,7,deswegen,5.190,6.140,0.950,d ɛ s v eː ɡ ə n,d ɛ s v eː ɡ ə n,d a s v iː n
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,8,weil,6.230,6.390,0.160,v aɪ l,v aj l,a n
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,9,er,6.390,6.470,0.080, ɛ ɾ,ɛ ʁ,a
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,10,einen,6.470,6.650,0.180, aɪ n ə n,aj n n̩,a n
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,11,dazu,6.650,6.950,0.300,d ɑː ts uː,d a ts uː,a ts
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,12,bringt,6.950,7.370,0.420,b ɾ ɪ ŋ t,b ʁ ɪ ŋ t,l i n
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,13,drinnen,7.370,7.720,0.350,d ɾ ɪ n ə n,d ʁ ɪ n n̩,r i n
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,14,zu,7.720,7.880,0.160,ts uː,ts uː,s ə5
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,15,bleiben,7.880,8.440,0.560,b l aɪ b ə n,b l aj b n̩,p l aɪ m uː
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,16,und,8.440,8.590,0.150, ʊ n t,ʊ n t,a n
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,17,trotzdem,8.590,9.100,0.510,t ɾ ɔ ts d eː m,t ʁ ɔ ts d eː m,a ə
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,18,das,9.100,9.310,0.210,d a s,d aː s,b a s t
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,19,draußen,9.310,9.750,0.440,d ɾ aʊ s ə n,spn,aʊ s ə
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,20,präsent,9.750,10.320,0.570,p ɾ ɛː z ɛ n t,p ʁ ɛ z ɛ n t,p r ʌ z ɛ n
+71334,C:\PY\pronuncise_research\mfa_corpus_german\71334.wav,21,macht,10.320,10.720,0.400,m a x t,m a x t,a x t
