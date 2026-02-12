@@ -51,10 +51,8 @@ ESPEAK_DLL = r"C:\Program Files\eSpeak NG\libespeak-ng.dll"
 WORD_TIER_NAMES  = ["words", "word"]
 PHONE_TIER_NAMES = ["phones", "phone"]
 
-# If True, call MFA from this script; if you already have TextGrids, set False.
 RUN_MFA_FROM_SCRIPT = False
 
-# Small time tolerance when grouping phones into words
 EPS = 1e-3
 
 
